@@ -1,0 +1,94 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_net_field_network",
+    "hash": 980223666,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_net_field_network_00",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La ricerca ha avuto successo!",
+                    "strWidth": 372.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Inizieranno i preparativi per uno scambio in link.",
+                    "strWidth": 623.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_net_field_network_01",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La ricerca ha avuto successo!",
+                    "strWidth": 372.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Inizieranno i preparativi per una lotta in link.",
+                    "strWidth": 576.015625
+                }
+            ]
+        }
+    ]
+}

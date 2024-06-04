@@ -1,0 +1,170 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_common_text",
+    "hash": -972630522,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_common_text_01",
+            "styleInfo": {
+                "styleIndex": 64,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dati di backup caricati.",
+                    "strWidth": 301.4375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attenzione: questi saranno i dati che verranno",
+                    "strWidth": 597.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "salvati la prossima volta che salverai il gioco.",
+                    "strWidth": 580.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_common_text_02",
+            "styleInfo": {
+                "styleIndex": 64,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dati di backup non presenti. Impossibile caricare.",
+                    "strWidth": 640.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tornerai allo schermo del titolo.",
+                    "strWidth": 416.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_common_text_03",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Salvataggio in corso...",
+                    "strWidth": 284.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "SS_common_text_04",
+            "styleInfo": {
+                "styleIndex": 64,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I dati di salvataggio sono danneggiati.",
+                    "strWidth": 495.28125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cancella i dati di salvataggio dalla console.",
+                    "strWidth": 563.578125
+                }
+            ]
+        }
+    ]
+}

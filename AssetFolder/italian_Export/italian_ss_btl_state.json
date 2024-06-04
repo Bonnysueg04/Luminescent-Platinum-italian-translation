@@ -1,0 +1,4120 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_btl_state",
+    "hash": 1428977549,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "BTR_STATE_01_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sole intenso",
+                    "strWidth": 158.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "BTR_STATE_01_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quando i raggi solari sono intensi, la potenza",
+                    "strWidth": 589.09375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "delle mosse di tipo Fuoco aumenta e quella",
+                    "strWidth": 567.453125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "delle mosse di tipo Acqua diminuisce.",
+                    "strWidth": 489.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "BTR_STATE_02_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pioggia",
+                    "strWidth": 96.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "BTR_STATE_02_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quando piove, la potenza delle mosse",
+                    "strWidth": 500.59375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di tipo Acqua aumenta e quella delle",
+                    "strWidth": 482.140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "mosse di tipo Fuoco diminuisce.",
+                    "strWidth": 413.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "BTR_STATE_03_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tempesta di sabbia",
+                    "strWidth": 252.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "BTR_STATE_03_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quando infuria una tempesta di sabbia,",
+                    "strWidth": 512.9375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tutti i Pokémon subiscono danni a ogni turno,",
+                    "strWidth": 588.640625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "eccetto quelli di tipo Terra, Roccia e Acciaio.",
+                    "strWidth": 588.453125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Inoltre, la Difesa Speciale dei Pokémon di",
+                    "strWidth": 545.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tipo Roccia aumenta.",
+                    "strWidth": 273.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "BTR_STATE_04_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grandine",
+                    "strWidth": 120.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "BTR_STATE_04_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quando grandina, tutti i Pokémon subiscono",
+                    "strWidth": 577.875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "danni a ogni turno, eccetto quelli di tipo",
+                    "strWidth": 526.765625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ghiaccio.",
+                    "strWidth": 122.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 8,
+            "labelName": "BTR_STATE_08_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Distortozona",
+                    "strWidth": 166.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 9,
+            "labelName": "BTR_STATE_08_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per cinque turni, i Pokémon più lenti agiscono",
+                    "strWidth": 595.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per primi.",
+                    "strWidth": 124.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 10,
+            "labelName": "BTR_STATE_11_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Brutto colpo ↑",
+                    "strWidth": 196.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 11,
+            "labelName": "BTR_STATE_11_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La probabilità di sferrare un brutto colpo",
+                    "strWidth": 531.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "aumenta.",
+                    "strWidth": 118.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 12,
+            "labelName": "BTR_STATE_12_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Confusione",
+                    "strWidth": 146.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 13,
+            "labelName": "BTR_STATE_12_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon rischia di danneggiare se stesso",
+                    "strWidth": 559.796875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per un periodo che va da uno a quattro turni.",
+                    "strWidth": 586.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 14,
+            "labelName": "BTR_STATE_13_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Infatuazione",
+                    "strWidth": 159.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 15,
+            "labelName": "BTR_STATE_13_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon è riluttante ad attaccare",
+                    "strWidth": 464.875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "se il bersaglio è del sesso opposto.",
+                    "strWidth": 453.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 16,
+            "labelName": "BTR_STATE_05_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Campo Elettrico",
+                    "strWidth": 209.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 17,
+            "labelName": "BTR_STATE_05_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Impedisce che i Pokémon a contatto con il",
+                    "strWidth": 550.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "terreno di lotta si addormentino per cinque turni.",
+                    "strWidth": 635.625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Potenzia le mosse di tipo Elettro.",
+                    "strWidth": 428.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 18,
+            "labelName": "BTR_STATE_16_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ripeti",
+                    "strWidth": 76.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 19,
+            "labelName": "BTR_STATE_16_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 7,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Obbliga il Pokémon a ripetere la mossa",
+                    "strWidth": 511.5625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " per tre volte.",
+                    "strWidth": 177.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 20,
+            "labelName": "BTR_STATE_17_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Abilità bloccata",
+                    "strWidth": 205.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 21,
+            "labelName": "BTR_STATE_17_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "L’abilità del Pokémon è stata neutralizzata",
+                    "strWidth": 551.140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e non ha effetto.",
+                    "strWidth": 217.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 22,
+            "labelName": "BTR_STATE_18_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attaccalite",
+                    "strWidth": 140.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 23,
+            "labelName": "BTR_STATE_18_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon non può usare la stessa mossa",
+                    "strWidth": 540.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "due volte di seguito.",
+                    "strWidth": 266.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 24,
+            "labelName": "BTR_STATE_19_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ventoincoda",
+                    "strWidth": 165.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 25,
+            "labelName": "BTR_STATE_19_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per quattro turni, la Velocità del Pokémon",
+                    "strWidth": 547.890625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "raddoppia.",
+                    "strWidth": 141.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 26,
+            "labelName": "BTR_STATE_21_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Rancore",
+                    "strWidth": 105.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 27,
+            "labelName": "BTR_STATE_21_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se il Pokémon va KO, i PP della mossa che",
+                    "strWidth": 554.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lo ha messo fuori gioco vengono azzerati.",
+                    "strWidth": 538.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 28,
+            "labelName": "BTR_STATE_06_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Campo Erboso",
+                    "strWidth": 189.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 29,
+            "labelName": "BTR_STATE_06_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa recuperare PS ai Pokémon a contatto",
+                    "strWidth": 521.328125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "con il terreno di lotta per cinque turni.",
+                    "strWidth": 497.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Potenzia le mosse di tipo Erba.",
+                    "strWidth": 399.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 30,
+            "labelName": "BTR_STATE_07_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Campo Nebbioso",
+                    "strWidth": 226.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 31,
+            "labelName": "BTR_STATE_07_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Protegge i Pokémon a contatto con il terreno",
+                    "strWidth": 586.125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di lotta da problemi di stato per cinque turni.",
+                    "strWidth": 586.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dimezza i danni causati da mosse di tipo Drago.",
+                    "strWidth": 624.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 32,
+            "labelName": "BTR_STATE_24_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mossa bloccata",
+                    "strWidth": 200.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 33,
+            "labelName": "BTR_STATE_24_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 7,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon non può usare la mossa",
+                    "strWidth": 455.46875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " per quattro turni.",
+                    "strWidth": 230.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 34,
+            "labelName": "BTR_STATE_25_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antifuga",
+                    "strWidth": 110.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 35,
+            "labelName": "BTR_STATE_25_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon non può fuggire o essere sostituito.",
+                    "strWidth": 609.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 36,
+            "labelName": "BTR_STATE_26_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Localizza",
+                    "strWidth": 118.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 37,
+            "labelName": "BTR_STATE_26_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La prossima mossa usata dal Pokémon andrà",
+                    "strWidth": 574.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a segno immancabilmente.",
+                    "strWidth": 343.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 38,
+            "labelName": "BTR_STATE_09_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Magicozona",
+                    "strWidth": 157.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 39,
+            "labelName": "BTR_STATE_09_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Annulla l’effetto degli strumenti di tutti",
+                    "strWidth": 508.171875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "i Pokémon per cinque turni.",
+                    "strWidth": 357.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 40,
+            "labelName": "BTR_STATE_28_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sottocarica",
+                    "strWidth": 145.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 41,
+            "labelName": "BTR_STATE_28_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Raddoppia la potenza della mossa di tipo Elettro",
+                    "strWidth": 635.921875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "usata dal Pokémon dopo Sottocarica.",
+                    "strWidth": 484.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 42,
+            "labelName": "BTR_STATE_29_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gravità",
+                    "strWidth": 95.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 43,
+            "labelName": "BTR_STATE_29_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per cinque turni, le mosse vanno a segno più",
+                    "strWidth": 577.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "facilmente, i Pokémon di tipo Volante o con",
+                    "strWidth": 574.125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "l’abilità Levitazione sono vulnerabili alle mosse",
+                    "strWidth": 609.46875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di tipo Terra e le mosse che fanno volare non",
+                    "strWidth": 588.421875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "possono essere utilizzate.",
+                    "strWidth": 329.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 44,
+            "labelName": "BTR_STATE_30_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nebbia",
+                    "strWidth": 95.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 45,
+            "labelName": "BTR_STATE_30_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Impedisce la diminuzione delle statistiche",
+                    "strWidth": 538.109375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per cinque turni.",
+                    "strWidth": 212.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 46,
+            "labelName": "BTR_STATE_31_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Salvaguardia",
+                    "strWidth": 164.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 47,
+            "labelName": "BTR_STATE_31_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Protegge dai problemi di stato per cinque turni.",
+                    "strWidth": 617.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 48,
+            "labelName": "BTR_STATE_32_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Levitoroccia",
+                    "strWidth": 157.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 49,
+            "labelName": "BTR_STATE_32_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Danneggia i Pokémon che entrano in campo.",
+                    "strWidth": 581.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 50,
+            "labelName": "BTR_STATE_33_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Accumulo",
+                    "strWidth": 126.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 51,
+            "labelName": "BTR_STATE_33_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Difesa e la Difesa Speciale del Pokémon",
+                    "strWidth": 564.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "aumentano ogni volta che accumula energia.",
+                    "strWidth": 577.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 52,
+            "labelName": "BTR_STATE_34_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Provocazione",
+                    "strWidth": 172.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 53,
+            "labelName": "BTR_STATE_34_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Costringe a usare solo mosse che causano",
+                    "strWidth": 541.671875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "danni.",
+                    "strWidth": 79.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 56,
+            "labelName": "BTR_STATE_36_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Magnetascesa",
+                    "strWidth": 182.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 57,
+            "labelName": "BTR_STATE_36_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon non può essere colpito da mosse",
+                    "strWidth": 577.84375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di tipo Terra per cinque turni.",
+                    "strWidth": 383.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 58,
+            "labelName": "BTR_STATE_37_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fielepunte",
+                    "strWidth": 137.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 59,
+            "labelName": "BTR_STATE_37_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Avvelena i Pokémon che scendono in campo,",
+                    "strWidth": 586.265625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "eccetto quelli di tipo Volante o con l’abilità",
+                    "strWidth": 569.921875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Levitazione.",
+                    "strWidth": 155.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 60,
+            "labelName": "BTR_STATE_10_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mirabilzona",
+                    "strWidth": 152.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 61,
+            "labelName": "BTR_STATE_10_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scambia la Difesa e la Difesa Speciale",
+                    "strWidth": 495.546875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di tutti i Pokémon per cinque turni.",
+                    "strWidth": 452.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 62,
+            "labelName": "BTR_STATE_39_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Desiderio",
+                    "strWidth": 124.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 63,
+            "labelName": "BTR_STATE_39_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon recupererà metà dei PS totali",
+                    "strWidth": 531.390625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nel turno successivo all’uso della mossa",
+                    "strWidth": 509.796875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Desiderio.",
+                    "strWidth": 132.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 64,
+            "labelName": "BTR_STATE_41_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Radicamento",
+                    "strWidth": 168.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 65,
+            "labelName": "BTR_STATE_41_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon recupera PS alla fine di ogni turno",
+                    "strWidth": 594.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e non può essere sostituito perché ha messo",
+                    "strWidth": 571.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "le radici.",
+                    "strWidth": 111.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 66,
+            "labelName": "BTR_STATE_42_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Maledizione",
+                    "strWidth": 159.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 67,
+            "labelName": "BTR_STATE_42_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa perdere PS alla fine di ogni turno.",
+                    "strWidth": 478.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 68,
+            "labelName": "BTR_STATE_15_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sonnolenza",
+                    "strWidth": 148.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 69,
+            "labelName": "BTR_STATE_15_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon si addormenta alla fine del turno",
+                    "strWidth": 576.078125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "successivo a quello in cui ha subito la mossa.",
+                    "strWidth": 578.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 70,
+            "labelName": "BTR_STATE_44_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Schermoluce",
+                    "strWidth": 163.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 71,
+            "labelName": "BTR_STATE_44_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La potenza degli attacchi speciali subiti viene",
+                    "strWidth": 589.03125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dimezzata per cinque turni dall’attivazione",
+                    "strWidth": 550.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dell’effetto.",
+                    "strWidth": 154.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 72,
+            "labelName": "BTR_STATE_45_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riflesso",
+                    "strWidth": 98.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 73,
+            "labelName": "BTR_STATE_45_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La potenza degli attacchi fisici subiti viene",
+                    "strWidth": 550.109375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dimezzata per cinque turni dall’attivazione",
+                    "strWidth": 550.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dell’effetto.",
+                    "strWidth": 154.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 74,
+            "labelName": "BTR_STATE_46_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esclusiva",
+                    "strWidth": 113.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 75,
+            "labelName": "BTR_STATE_46_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I nemici di un Pokémon che ha usato Esclusiva",
+                    "strWidth": 596.0625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "non possono usare le mosse conosciute anche",
+                    "strWidth": 593.203125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "da lui.",
+                    "strWidth": 80.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 76,
+            "labelName": "BTR_STATE_47_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Turni contati",
+                    "strWidth": 163.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 77,
+            "labelName": "BTR_STATE_47_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I Pokémon che subiscono questo effetto",
+                    "strWidth": 520.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "vanno KO dopo tre turni.",
+                    "strWidth": 326.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 78,
+            "labelName": "BTR_STATE_48_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Punte",
+                    "strWidth": 73.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 79,
+            "labelName": "BTR_STATE_48_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Infligge danni ai Pokémon quando scendono",
+                    "strWidth": 577.109375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "in campo, eccetto quelli di tipo Volante o con",
+                    "strWidth": 599.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "l’abilità Levitazione.",
+                    "strWidth": 261.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 80,
+            "labelName": "BTR_STATE_50_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Destinobbligato",
+                    "strWidth": 208.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 81,
+            "labelName": "BTR_STATE_50_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Chi manda KO questo Pokémon finisce KO.",
+                    "strWidth": 565.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 82,
+            "labelName": "BTR_STATE_40_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Rete Vischiosa",
+                    "strWidth": 188.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 83,
+            "labelName": "BTR_STATE_40_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Velocità dei Pokémon che entrano in campo",
+                    "strWidth": 613.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "diminuisce.",
+                    "strWidth": 143.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 84,
+            "labelName": "BTR_STATE_52_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Parassiseme",
+                    "strWidth": 153.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 85,
+            "labelName": "BTR_STATE_52_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon perde PS alla fine di ogni turno",
+                    "strWidth": 557.59375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e li fa recuperare a chi ha usato la mossa.",
+                    "strWidth": 535.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 86,
+            "labelName": "BTR_STATE_53_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Localizza",
+                    "strWidth": 118.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 87,
+            "labelName": "BTR_STATE_53_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La prossima mossa usata sul Pokémon",
+                    "strWidth": 486.828125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "localizzato andrà a segno immancabilmente.",
+                    "strWidth": 571.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 88,
+            "labelName": "BTR_STATE_54_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Imprigionamento",
+                    "strWidth": 218.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 89,
+            "labelName": "BTR_STATE_54_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon è intrappolato e subisce danni",
+                    "strWidth": 544.671875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a ogni turno.",
+                    "strWidth": 165.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 92,
+            "labelName": "BTR_STATE_56_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Oltraggio",
+                    "strWidth": 124.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 93,
+            "labelName": "BTR_STATE_56_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon sfoga la sua ira e attacca per due",
+                    "strWidth": 583.40625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "o tre turni prima di essere lasciato in preda",
+                    "strWidth": 555.984375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "alla confusione.",
+                    "strWidth": 202.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 94,
+            "labelName": "BTR_STATE_57_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Collera",
+                    "strWidth": 93.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 95,
+            "labelName": "BTR_STATE_57_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon sfoga la sua ira e attacca per due",
+                    "strWidth": 583.40625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "o tre turni prima di essere lasciato in preda",
+                    "strWidth": 555.984375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "alla confusione.",
+                    "strWidth": 202.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 96,
+            "labelName": "BTR_STATE_58_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Petalodanza",
+                    "strWidth": 159.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 97,
+            "labelName": "BTR_STATE_58_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon sfoga la sua ira e attacca per due",
+                    "strWidth": 583.40625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "o tre turni prima di essere lasciato in preda",
+                    "strWidth": 555.984375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "alla confusione.",
+                    "strWidth": 202.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 98,
+            "labelName": "BTR_STATE_59_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Iperavvelenamento",
+                    "strWidth": 246.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 99,
+            "labelName": "BTR_STATE_59_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon è iperavvelenato e la quantità di PS",
+                    "strWidth": 615.328125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che perde aumenta a ogni turno.",
+                    "strWidth": 423.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 100,
+            "labelName": "BTR_STATE_61_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Baraonda",
+                    "strWidth": 122.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 101,
+            "labelName": "BTR_STATE_61_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon attacca per tre turni provocando",
+                    "strWidth": 573.34375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "un frastuono che non permette a nessuno",
+                    "strWidth": 534.5625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di addormentarsi.",
+                    "strWidth": 226.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 102,
+            "labelName": "BTR_STATE_62_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Acquanello",
+                    "strWidth": 146.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 103,
+            "labelName": "BTR_STATE_62_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon è avvolto in un velo d’acqua",
+                    "strWidth": 520.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che gli fa recuperare PS a ogni turno.",
+                    "strWidth": 481.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 104,
+            "labelName": "BTR_STATE_64_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Abbattimento",
+                    "strWidth": 179.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 105,
+            "labelName": "BTR_STATE_64_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon viene colpito e cade a terra.",
+                    "strWidth": 519.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 106,
+            "labelName": "BTR_STATE_63_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sganciapesi",
+                    "strWidth": 151.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 107,
+            "labelName": "BTR_STATE_63_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il peso corporeo del Pokémon diminuisce",
+                    "strWidth": 535.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e la sua Velocità aumenta di molto.",
+                    "strWidth": 459.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 110,
+            "labelName": "BTR_STATE_73_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Colpo Infernale",
+                    "strWidth": 202.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 111,
+            "labelName": "BTR_STATE_73_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per due turni impedisce di usare mosse",
+                    "strWidth": 502.890625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "basate sul suono.",
+                    "strWidth": 222.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 112,
+            "labelName": "BTR_STATE_75_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Concentrazione",
+                    "strWidth": 202.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 113,
+            "labelName": "BTR_STATE_75_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "L’attacco sferrato nel turno successivo a quello",
+                    "strWidth": 607.671875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "in cui è stata usata Concentrazione causa",
+                    "strWidth": 532.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sempre un brutto colpo.",
+                    "strWidth": 311.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 120,
+            "labelName": "BTR_STATE_74_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Velaurora",
+                    "strWidth": 126.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 121,
+            "labelName": "BTR_STATE_74_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La potenza degli attacchi speciali e fisici",
+                    "strWidth": 524.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "subiti viene dimezzata per cinque turni.",
+                    "strWidth": 507.671875
+                }
+            ]
+        }
+    ]
+}

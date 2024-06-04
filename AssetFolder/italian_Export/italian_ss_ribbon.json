@@ -1,0 +1,6426 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_ribbon",
+    "hash": -1079604167,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "RIBBON_NAME_001",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione Kalos",
+                    "strWidth": 305.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "RIBBON_NAME_002",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione",
+                    "strWidth": 226.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "RIBBON_NAME_003",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione Sinnoh",
+                    "strWidth": 322.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "RIBBON_NAME_004",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Amicizia",
+                    "strWidth": 202.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "RIBBON_NAME_005",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Training",
+                    "strWidth": 199.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "RIBBON_NAME_006",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Asso della Lotta",
+                    "strWidth": 303.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "RIBBON_NAME_007",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Genio della Lotta",
+                    "strWidth": 323.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "RIBBON_NAME_008",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Merito",
+                    "strWidth": 181.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "RIBBON_NAME_009",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Allarme",
+                    "strWidth": 193.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "RIBBON_NAME_010",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Stupore",
+                    "strWidth": 195.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "RIBBON_NAME_011",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Sconforto",
+                    "strWidth": 220.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "RIBBON_NAME_012",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Indolenza",
+                    "strWidth": 220.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "RIBBON_NAME_013",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Relax",
+                    "strWidth": 165.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "RIBBON_NAME_014",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Pisolino",
+                    "strWidth": 195.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "RIBBON_NAME_015",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Sorriso",
+                    "strWidth": 182.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "RIBBON_NAME_016",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Meraviglia",
+                    "strWidth": 230.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "RIBBON_NAME_017",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Reale",
+                    "strWidth": 167.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "RIBBON_NAME_018",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Meraviglia Reale",
+                    "strWidth": 311.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "RIBBON_NAME_019",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Artista",
+                    "strWidth": 178.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "RIBBON_NAME_020",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Orma",
+                    "strWidth": 166.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "RIBBON_NAME_021",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Record",
+                    "strWidth": 186.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "RIBBON_NAME_022",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Leggenda",
+                    "strWidth": 222.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 22,
+            "labelName": "RIBBON_NAME_023",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Paese",
+                    "strWidth": 169.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 23,
+            "labelName": "RIBBON_NAME_024",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Nazionale",
+                    "strWidth": 224.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 24,
+            "labelName": "RIBBON_NAME_025",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Geo",
+                    "strWidth": 151.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 25,
+            "labelName": "RIBBON_NAME_026",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Mondiale",
+                    "strWidth": 217.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "RIBBON_NAME_027",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Classico",
+                    "strWidth": 199.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "RIBBON_NAME_028",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Principale",
+                    "strWidth": 221.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "RIBBON_NAME_029",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Evento",
+                    "strWidth": 183.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 29,
+            "labelName": "RIBBON_NAME_030",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Compleanno",
+                    "strWidth": 259.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 30,
+            "labelName": "RIBBON_NAME_031",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Speciale",
+                    "strWidth": 203.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 31,
+            "labelName": "RIBBON_NAME_032",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Ricordo",
+                    "strWidth": 195.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 32,
+            "labelName": "RIBBON_NAME_033",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Desiderio",
+                    "strWidth": 219.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 33,
+            "labelName": "RIBBON_NAME_034",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione Lotta",
+                    "strWidth": 302.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 34,
+            "labelName": "RIBBON_NAME_035",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione Locale",
+                    "strWidth": 320.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 35,
+            "labelName": "RIBBON_NAME_036",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione Nazionale",
+                    "strWidth": 364.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 36,
+            "labelName": "RIBBON_NAME_037",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione Mondiale",
+                    "strWidth": 357.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 37,
+            "labelName": "RIBBON_NAME_038",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Ricordo delle Gare",
+                    "strWidth": 341.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 38,
+            "labelName": "RIBBON_NAME_039",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Ricordo delle Lotte",
+                    "strWidth": 345.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 39,
+            "labelName": "RIBBON_NAME_040",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione Hoenn",
+                    "strWidth": 321.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 40,
+            "labelName": "RIBBON_NAME_041",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Stella delle Gare",
+                    "strWidth": 313.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 41,
+            "labelName": "RIBBON_NAME_042",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Classe Suprema",
+                    "strWidth": 297.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 42,
+            "labelName": "RIBBON_NAME_043",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Bellezza Suprema",
+                    "strWidth": 321.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 43,
+            "labelName": "RIBBON_NAME_044",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Grazia Suprema",
+                    "strWidth": 299.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 44,
+            "labelName": "RIBBON_NAME_045",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Acume Supremo",
+                    "strWidth": 305.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 45,
+            "labelName": "RIBBON_NAME_046",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Grinta Suprema",
+                    "strWidth": 296.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 46,
+            "labelName": "RIBBON_NAME_047",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione Alola",
+                    "strWidth": 303.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 47,
+            "labelName": "RIBBON_NAME_048",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Asso Royale",
+                    "strWidth": 251.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 48,
+            "labelName": "RIBBON_NAME_049",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Asso dell’Albero",
+                    "strWidth": 309.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 49,
+            "labelName": "RIBBON_NAME_050",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Genio dell’Albero",
+                    "strWidth": 328.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 152,
+            "arrayIndex": 50,
+            "labelName": "RIBBON_NAME_51",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Campione Galar",
+                    "strWidth": 306.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 153,
+            "arrayIndex": 51,
+            "labelName": "RIBBON_NAME_52",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Asso della Torre",
+                    "strWidth": 305.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 154,
+            "arrayIndex": 52,
+            "labelName": "RIBBON_NAME_53",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Asso Competizione",
+                    "strWidth": 343.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 155,
+            "arrayIndex": 53,
+            "labelName": "PROOF_NAME_046",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Mezzogiorno",
+                    "strWidth": 294.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 156,
+            "arrayIndex": 54,
+            "labelName": "PROOF_NAME_047",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Mezzanotte",
+                    "strWidth": 278.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 157,
+            "arrayIndex": 55,
+            "labelName": "PROOF_NAME_048",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Tramonto",
+                    "strWidth": 250.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 158,
+            "arrayIndex": 56,
+            "labelName": "PROOF_NAME_049",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Alba",
+                    "strWidth": 186.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 159,
+            "arrayIndex": 57,
+            "labelName": "PROOF_NAME_050",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Nuvolo",
+                    "strWidth": 219.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 160,
+            "arrayIndex": 58,
+            "labelName": "PROOF_NAME_051",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Pioggia",
+                    "strWidth": 222.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 161,
+            "arrayIndex": 59,
+            "labelName": "PROOF_NAME_052",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Tuoni e Lampi",
+                    "strWidth": 310.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 162,
+            "arrayIndex": 60,
+            "labelName": "PROOF_NAME_053",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Neve",
+                    "strWidth": 193.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 163,
+            "arrayIndex": 61,
+            "labelName": "PROOF_NAME_054",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Tormenta",
+                    "strWidth": 249.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 164,
+            "arrayIndex": 62,
+            "labelName": "PROOF_NAME_055",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Arsura",
+                    "strWidth": 208.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 165,
+            "arrayIndex": 63,
+            "labelName": "PROOF_NAME_056",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Tempesta di Sabbia",
+                    "strWidth": 382.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 166,
+            "arrayIndex": 64,
+            "labelName": "PROOF_NAME_057",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Nebbia",
+                    "strWidth": 221.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 167,
+            "arrayIndex": 65,
+            "labelName": "PROOF_NAME_058",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Destino",
+                    "strWidth": 226.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 168,
+            "arrayIndex": 66,
+            "labelName": "PROOF_NAME_059",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Pesca",
+                    "strWidth": 199.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 169,
+            "arrayIndex": 67,
+            "labelName": "PROOF_NAME_060",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Curry",
+                    "strWidth": 195.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 170,
+            "arrayIndex": 68,
+            "labelName": "PROOF_NAME_061",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Sporadicità",
+                    "strWidth": 272.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 171,
+            "arrayIndex": 69,
+            "labelName": "PROOF_NAME_062",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Rarità",
+                    "strWidth": 201.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 172,
+            "arrayIndex": 70,
+            "labelName": "PROOF_NAME_063",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Monello",
+                    "strWidth": 233.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 173,
+            "arrayIndex": 71,
+            "labelName": "PROOF_NAME_064",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Spensieratezza",
+                    "strWidth": 317.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 174,
+            "arrayIndex": 72,
+            "labelName": "PROOF_NAME_065",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Nervosismo",
+                    "strWidth": 275.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 175,
+            "arrayIndex": 73,
+            "labelName": "PROOF_NAME_066",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Speranza",
+                    "strWidth": 243.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 176,
+            "arrayIndex": 74,
+            "labelName": "PROOF_NAME_067",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Carisma",
+                    "strWidth": 228.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 177,
+            "arrayIndex": 75,
+            "labelName": "PROOF_NAME_068",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Sangue Freddo",
+                    "strWidth": 322.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 178,
+            "arrayIndex": 76,
+            "labelName": "PROOF_NAME_069",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Sangue Caldo",
+                    "strWidth": 306.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 179,
+            "arrayIndex": 77,
+            "labelName": "PROOF_NAME_070",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Disattenzione",
+                    "strWidth": 303.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 180,
+            "arrayIndex": 78,
+            "labelName": "PROOF_NAME_071",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Felicità",
+                    "strWidth": 220.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 181,
+            "arrayIndex": 79,
+            "labelName": "PROOF_NAME_072",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Collera",
+                    "strWidth": 220.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 182,
+            "arrayIndex": 80,
+            "labelName": "PROOF_NAME_073",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Sorriso",
+                    "strWidth": 214.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 183,
+            "arrayIndex": 81,
+            "labelName": "PROOF_NAME_074",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Sconforto",
+                    "strWidth": 252.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 184,
+            "arrayIndex": 82,
+            "labelName": "PROOF_NAME_075",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Buonumore",
+                    "strWidth": 272.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 185,
+            "arrayIndex": 83,
+            "labelName": "PROOF_NAME_076",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Malumore",
+                    "strWidth": 256.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 186,
+            "arrayIndex": 84,
+            "labelName": "PROOF_NAME_077",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Ragione",
+                    "strWidth": 231.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 187,
+            "arrayIndex": 85,
+            "labelName": "PROOF_NAME_078",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Istinto",
+                    "strWidth": 206.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 188,
+            "arrayIndex": 86,
+            "labelName": "PROOF_NAME_079",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Astuzia",
+                    "strWidth": 219.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 189,
+            "arrayIndex": 87,
+            "labelName": "PROOF_NAME_080",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Aria Minacciosa",
+                    "strWidth": 331.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 190,
+            "arrayIndex": 88,
+            "labelName": "PROOF_NAME_081",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Aria Gentile",
+                    "strWidth": 283.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 191,
+            "arrayIndex": 89,
+            "labelName": "PROOF_NAME_082",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Agitazione",
+                    "strWidth": 264.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 192,
+            "arrayIndex": 90,
+            "labelName": "PROOF_NAME_083",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Entusiasmo",
+                    "strWidth": 269.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 193,
+            "arrayIndex": 91,
+            "labelName": "PROOF_NAME_084",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Pigrizia",
+                    "strWidth": 219.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 194,
+            "arrayIndex": 92,
+            "labelName": "PROOF_NAME_085",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Sicurezza",
+                    "strWidth": 245.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 195,
+            "arrayIndex": 93,
+            "labelName": "PROOF_NAME_086",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Insicurezza",
+                    "strWidth": 265.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 196,
+            "arrayIndex": 94,
+            "labelName": "PROOF_NAME_087",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Ingenuità",
+                    "strWidth": 246.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 197,
+            "arrayIndex": 95,
+            "labelName": "PROOF_NAME_088",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Artificio",
+                    "strWidth": 229.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 198,
+            "arrayIndex": 96,
+            "labelName": "PROOF_NAME_089",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Vitalità",
+                    "strWidth": 219.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 199,
+            "arrayIndex": 97,
+            "labelName": "PROOF_NAME_090",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema Sottotono",
+                    "strWidth": 256.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 98,
+            "labelName": "RIBBON_NAME_055",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dummy",
+                    "strWidth": 92.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 99,
+            "labelName": "RIBBON_NAME_054",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco Stella Brillante",
+                    "strWidth": 282.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 100,
+            "labelName": "RIBBON_INFO_001",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito a chi sconfigge la Campionessa di Kalos",
+                    "strWidth": 737.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ed entra nella Sala d’Onore.",
+                    "strWidth": 367.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 101,
+            "labelName": "RIBBON_INFO_002",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito a chi in passato ha sconfitto il Campione",
+                    "strWidth": 745.546875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di un’altra regione ed è entrato nella Sala d’Onore.",
+                    "strWidth": 666.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 102,
+            "labelName": "RIBBON_INFO_003",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito a chi sconfigge la Campionessa di Sinnoh",
+                    "strWidth": 753.6875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ed entra nella Sala d’Onore.",
+                    "strWidth": 367.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 103,
+            "labelName": "RIBBON_INFO_004",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco da regalare a un Pokémon con il quale",
+                    "strWidth": 593.859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "hai creato un legame profondo.",
+                    "strWidth": 409.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 104,
+            "labelName": "RIBBON_INFO_005",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco da regalare a un Pokémon che ha sostenuto",
+                    "strWidth": 660.8125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "con successo un duro allenamento.",
+                    "strWidth": 450.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 105,
+            "labelName": "RIBBON_INFO_006",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco da regalare a un Pokémon che è uscito",
+                    "strWidth": 597.203125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "vittorioso da lotte difficili.",
+                    "strWidth": 338.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 106,
+            "labelName": "RIBBON_INFO_007",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco da regalare a un Pokémon che ha superato",
+                    "strWidth": 648.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "se stesso nella lotta.",
+                    "strWidth": 261.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 107,
+            "labelName": "RIBBON_INFO_008",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito a un Pokémon che ha lavorato sodo.",
+                    "strWidth": 692.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 108,
+            "labelName": "RIBBON_INFO_009",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco per ricordare un evento che ha creato",
+                    "strWidth": 584.203125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "energia vitale.",
+                    "strWidth": 183.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 109,
+            "labelName": "RIBBON_INFO_010",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco per ricordare un evento che ha reso la vita",
+                    "strWidth": 643.875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "più emozionante.",
+                    "strWidth": 223.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 110,
+            "labelName": "RIBBON_INFO_011",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco per ricordare sentimenti tristi che, tuttavia,",
+                    "strWidth": 647.40625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "hanno aggiunto sapore alla vita.",
+                    "strWidth": 415.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 111,
+            "labelName": "RIBBON_INFO_012",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco per ricordare un errore da cui sono nate",
+                    "strWidth": 611.703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "decisioni importanti.",
+                    "strWidth": 263.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 112,
+            "labelName": "RIBBON_INFO_013",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco per ricordare il senso di realizzazione lasciato",
+                    "strWidth": 683.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "da un evento entusiasmante.",
+                    "strWidth": 369.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 113,
+            "labelName": "RIBBON_INFO_014",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco per ricordare una dormita ristoratrice",
+                    "strWidth": 572.84375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che ha trasmesso una sensazione rassicurante.",
+                    "strWidth": 590.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 114,
+            "labelName": "RIBBON_INFO_015",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco per ricordare che sorridere migliora la qualità",
+                    "strWidth": 681.75
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "della vita.",
+                    "strWidth": 127.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 115,
+            "labelName": "RIBBON_INFO_016",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco straordinariamente sfarzoso e stravagante.",
+                    "strWidth": 640.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 116,
+            "labelName": "RIBBON_INFO_017",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco decisamente regale e con un tocco di nobiltà.",
+                    "strWidth": 687.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 117,
+            "labelName": "RIBBON_INFO_018",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stupendo fiocco regale che rappresenta l’apoteosi",
+                    "strWidth": 655.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "della bellezza.",
+                    "strWidth": 186.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 118,
+            "labelName": "RIBBON_INFO_019",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per essere stati scelti come modelli",
+                    "strWidth": 674.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nella regione di Hoenn.",
+                    "strWidth": 305.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 119,
+            "labelName": "RIBBON_INFO_020",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco assegnato a un Pokémon con impronte",
+                    "strWidth": 595.375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di qualità sopraffina.",
+                    "strWidth": 267.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 120,
+            "labelName": "RIBBON_INFO_021",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver stabilito un record straordinario.",
+                    "strWidth": 752.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 121,
+            "labelName": "RIBBON_INFO_022",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver stabilito un record leggendario.",
+                    "strWidth": 743.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 122,
+            "labelName": "RIBBON_INFO_023",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco consegnato al Campione della Lega Pokémon.",
+                    "strWidth": 695.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 123,
+            "labelName": "RIBBON_INFO_024",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver superato tutte le sfide difficili.",
+                    "strWidth": 727.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 124,
+            "labelName": "RIBBON_INFO_025",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver ottenuto 100 vittorie di seguito.",
+                    "strWidth": 750.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 125,
+            "labelName": "RIBBON_INFO_026",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco consegnato al Campione della Lega Pokémon.",
+                    "strWidth": 695.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 126,
+            "labelName": "RIBBON_INFO_027",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco che proclama amore per i Pokémon.",
+                    "strWidth": 561.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 127,
+            "labelName": "RIBBON_INFO_028",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per una celebrazione speciale.",
+                    "strWidth": 614.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 128,
+            "labelName": "RIBBON_INFO_029",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per la partecipazione a un Evento Pokémon.",
+                    "strWidth": 792.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 129,
+            "labelName": "RIBBON_INFO_030",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco commemorativo di un compleanno.",
+                    "strWidth": 549.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 130,
+            "labelName": "RIBBON_INFO_031",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco speciale, conferito per ricordare un giorno molto",
+                    "strWidth": 726.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "particolare.",
+                    "strWidth": 147.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 131,
+            "labelName": "RIBBON_INFO_032",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco commemorativo di un ricordo speciale.",
+                    "strWidth": 597.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 132,
+            "labelName": "RIBBON_INFO_033",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco che sembra essere in grado di esaudire",
+                    "strWidth": 597.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "i desideri.",
+                    "strWidth": 127.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 133,
+            "labelName": "RIBBON_INFO_034",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver vinto una Gara di Lotta.",
+                    "strWidth": 644.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 134,
+            "labelName": "RIBBON_INFO_035",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver vinto il titolo di Campione Locale",
+                    "strWidth": 770.296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al Pokémon World Championships.",
+                    "strWidth": 452.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 135,
+            "labelName": "RIBBON_INFO_036",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver vinto il titolo di Campione",
+                    "strWidth": 676.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nazionale al Pokémon World Championships.",
+                    "strWidth": 590.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 136,
+            "labelName": "RIBBON_INFO_037",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver vinto il titolo di Campione",
+                    "strWidth": 676.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "del Mondo al Pokémon World Championships.",
+                    "strWidth": 603.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 137,
+            "labelName": "RIBBON_INFO_038",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco commemorativo conquistato da qualche parte",
+                    "strWidth": 689.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "in passato. È pieno di ricordi delle Gare!",
+                    "strWidth": 523.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 138,
+            "labelName": "RIBBON_INFO_039",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco commemorativo di tutti i fiocchi conquistati",
+                    "strWidth": 657.375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "in passato in lotte svoltesi in altre regioni.",
+                    "strWidth": 541.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 139,
+            "labelName": "RIBBON_INFO_040",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito a chi sconfigge il Campione di Hoenn",
+                    "strWidth": 707.015625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ed entra nella Sala d’Onore.",
+                    "strWidth": 367.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 140,
+            "labelName": "RIBBON_INFO_041",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver raggiunto il Livello Master",
+                    "strWidth": 673.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nelle Super Gare-show.",
+                    "strWidth": 301.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 141,
+            "labelName": "RIBBON_INFO_042",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per l’impareggiabile Classe dimostrata",
+                    "strWidth": 717.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nelle Gare.",
+                    "strWidth": 143.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 142,
+            "labelName": "RIBBON_INFO_043",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per la sublime Bellezza esibita nelle Gare.",
+                    "strWidth": 763.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 143,
+            "labelName": "RIBBON_INFO_044",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per l’inarrivabile Grazia esibita nelle Gare.",
+                    "strWidth": 771.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 144,
+            "labelName": "RIBBON_INFO_045",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per l’insuperabile Acume dimostrato",
+                    "strWidth": 689.609375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nelle Gare.",
+                    "strWidth": 143.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 145,
+            "labelName": "RIBBON_INFO_046",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per la Grinta travolgente dimostrata",
+                    "strWidth": 686.765625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nelle Gare.",
+                    "strWidth": 143.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 146,
+            "labelName": "RIBBON_INFO_047",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito a chi diventa Campione o Campionessa",
+                    "strWidth": 731.015625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di Alola ed entra nella Sala d’Onore.",
+                    "strWidth": 477.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 147,
+            "labelName": "RIBBON_INFO_048",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per le vittorie nelle Battle Royale.",
+                    "strWidth": 658.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 148,
+            "labelName": "RIBBON_INFO_049",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver sconfitto le Leggende della lotta.",
+                    "strWidth": 767.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 149,
+            "labelName": "RIBBON_INFO_050",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver battuto le Leggende della lotta",
+                    "strWidth": 741.84375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nelle Superlotte.",
+                    "strWidth": 214.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 150,
+            "labelName": "RIBBON_INFO_051",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito a chi diventa Campione o Campionessa",
+                    "strWidth": 731.015625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di Galar ed entra nella Sala d’Onore.",
+                    "strWidth": 481.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 151,
+            "labelName": "RIBBON_INFO_052",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito a chi ha raggiunto la vetta della Torre Lotta.",
+                    "strWidth": 793.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 152,
+            "labelName": "RIBBON_INFO_053",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito per aver battuto un Allenatore",
+                    "strWidth": 614.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di Classe Master Ball in una Lotta Competitiva.",
+                    "strWidth": 607.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 153,
+            "labelName": "PROOF_NAME_001",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon affamato.",
+                    "strWidth": 696.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 154,
+            "labelName": "PROOF_NAME_002",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon assonnato.",
+                    "strWidth": 710.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 155,
+            "labelName": "PROOF_NAME_003",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon sonnolento.",
+                    "strWidth": 725.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 110,
+            "arrayIndex": 156,
+            "labelName": "PROOF_NAME_004",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon mattiniero.",
+                    "strWidth": 713.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 111,
+            "arrayIndex": 157,
+            "labelName": "PROOF_NAME_005",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon che osserva",
+                    "strWidth": 722.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "le nuvole.",
+                    "strWidth": 126.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 112,
+            "arrayIndex": 158,
+            "labelName": "PROOF_NAME_006",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon fradicio",
+                    "strWidth": 671.9375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di pioggia.",
+                    "strWidth": 138.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 113,
+            "arrayIndex": 159,
+            "labelName": "PROOF_NAME_007",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon in agitazione",
+                    "strWidth": 739.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per i tuoni.",
+                    "strWidth": 141.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 114,
+            "arrayIndex": 160,
+            "labelName": "PROOF_NAME_008",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon che si rotola",
+                    "strWidth": 732.671875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nella neve.",
+                    "strWidth": 140.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 115,
+            "arrayIndex": 161,
+            "labelName": "PROOF_NAME_009",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon che trema",
+                    "strWidth": 701.46875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dal freddo.",
+                    "strWidth": 144.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 116,
+            "arrayIndex": 162,
+            "labelName": "PROOF_NAME_010",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon assetato.",
+                    "strWidth": 688.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 117,
+            "arrayIndex": 163,
+            "labelName": "PROOF_NAME_011",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon coperto",
+                    "strWidth": 674.796875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di sabbia.",
+                    "strWidth": 125.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 118,
+            "arrayIndex": 164,
+            "labelName": "PROOF_NAME_012",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon disorientato",
+                    "strWidth": 728.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dalla nebbia.",
+                    "strWidth": 168.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 119,
+            "arrayIndex": 165,
+            "labelName": "PROOF_NAME_013",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon segnato",
+                    "strWidth": 675.359375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dal destino.",
+                    "strWidth": 152.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 120,
+            "arrayIndex": 166,
+            "labelName": "PROOF_NAME_014",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon appena pescato.",
+                    "strWidth": 788.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 121,
+            "arrayIndex": 167,
+            "labelName": "PROOF_NAME_015",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon amante del curry.",
+                    "strWidth": 798.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 122,
+            "arrayIndex": 168,
+            "labelName": "PROOF_NAME_016",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon abituato",
+                    "strWidth": 681.890625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a interagire con gli esseri umani.",
+                    "strWidth": 417.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 123,
+            "arrayIndex": 169,
+            "labelName": "PROOF_NAME_017",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon che non ha",
+                    "strWidth": 715.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "mai avuto contatti con gli esseri umani.",
+                    "strWidth": 504.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 124,
+            "arrayIndex": 170,
+            "labelName": "PROOF_NAME_018",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon birbante.",
+                    "strWidth": 690.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 125,
+            "arrayIndex": 171,
+            "labelName": "PROOF_NAME_019",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon spensierato.",
+                    "strWidth": 729.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 126,
+            "arrayIndex": 172,
+            "labelName": "PROOF_NAME_020",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon un po’ ansioso.",
+                    "strWidth": 769.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 127,
+            "arrayIndex": 173,
+            "labelName": "PROOF_NAME_021",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon pieno",
+                    "strWidth": 647.171875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di speranza.",
+                    "strWidth": 155.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 128,
+            "arrayIndex": 174,
+            "labelName": "PROOF_NAME_022",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon carismatico.",
+                    "strWidth": 726.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 129,
+            "arrayIndex": 175,
+            "labelName": "PROOF_NAME_023",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon imperturbabile.",
+                    "strWidth": 771.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 130,
+            "arrayIndex": 176,
+            "labelName": "PROOF_NAME_024",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon energico.",
+                    "strWidth": 693.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 131,
+            "arrayIndex": 177,
+            "labelName": "PROOF_NAME_025",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon distratto.",
+                    "strWidth": 690.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 132,
+            "arrayIndex": 178,
+            "labelName": "PROOF_NAME_026",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon felice.",
+                    "strWidth": 652.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 133,
+            "arrayIndex": 179,
+            "labelName": "PROOF_NAME_027",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon furioso.",
+                    "strWidth": 669.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 134,
+            "arrayIndex": 180,
+            "labelName": "PROOF_NAME_028",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon sorridente.",
+                    "strWidth": 711.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 135,
+            "arrayIndex": 181,
+            "labelName": "PROOF_NAME_029",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon piagnucoloso.",
+                    "strWidth": 753.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 136,
+            "arrayIndex": 182,
+            "labelName": "PROOF_NAME_030",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon di buon umore.",
+                    "strWidth": 770.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 137,
+            "arrayIndex": 183,
+            "labelName": "PROOF_NAME_031",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon di cattivo umore.",
+                    "strWidth": 793.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 138,
+            "arrayIndex": 184,
+            "labelName": "PROOF_NAME_032",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon assennato.",
+                    "strWidth": 709.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 139,
+            "arrayIndex": 185,
+            "labelName": "PROOF_NAME_033",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon impulsivo.",
+                    "strWidth": 702.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 140,
+            "arrayIndex": 186,
+            "labelName": "PROOF_NAME_034",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon che approfitta",
+                    "strWidth": 757.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dei momenti di distrazione dell’avversario.",
+                    "strWidth": 548.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 141,
+            "arrayIndex": 187,
+            "labelName": "PROOF_NAME_035",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon minaccioso.",
+                    "strWidth": 724.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 142,
+            "arrayIndex": 188,
+            "labelName": "PROOF_NAME_036",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon gentile.",
+                    "strWidth": 670.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 143,
+            "arrayIndex": 189,
+            "labelName": "PROOF_NAME_037",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon frettoloso.",
+                    "strWidth": 707.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 144,
+            "arrayIndex": 190,
+            "labelName": "PROOF_NAME_038",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon che sprizza",
+                    "strWidth": 715.171875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "voglia di fare da tutti i pori.",
+                    "strWidth": 358.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 145,
+            "arrayIndex": 191,
+            "labelName": "PROOF_NAME_039",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon che non ha",
+                    "strWidth": 715.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "voglia di fare niente.",
+                    "strWidth": 268.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 146,
+            "arrayIndex": 192,
+            "labelName": "PROOF_NAME_040",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon spavaldo.",
+                    "strWidth": 697.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 147,
+            "arrayIndex": 193,
+            "labelName": "PROOF_NAME_041",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon che non ha",
+                    "strWidth": 715.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "fiducia in se stesso.",
+                    "strWidth": 249.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 148,
+            "arrayIndex": 194,
+            "labelName": "PROOF_NAME_042",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon dall’animo",
+                    "strWidth": 708.9375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "semplice.",
+                    "strWidth": 120.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 149,
+            "arrayIndex": 195,
+            "labelName": "PROOF_NAME_043",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon che si dà",
+                    "strWidth": 688.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "delle arie.",
+                    "strWidth": 129.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 150,
+            "arrayIndex": 196,
+            "labelName": "PROOF_NAME_044",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon pieno di energia.",
+                    "strWidth": 793.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 151,
+            "arrayIndex": 197,
+            "labelName": "PROOF_NAME_045",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emblema che contraddistingue un Pokémon stanco morto.",
+                    "strWidth": 750.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 198,
+            "labelName": "RIBBON_INFO_055",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dummy",
+                    "strWidth": 92.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 199,
+            "labelName": "RIBBON_INFO_054",
+            "styleInfo": {
+                "styleIndex": 113,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 800,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fiocco conferito alla stella più brillante delle Super",
+                    "strWidth": 664.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gare-show.",
+                    "strWidth": 147.421875
+                }
+            ]
+        }
+    ]
+}

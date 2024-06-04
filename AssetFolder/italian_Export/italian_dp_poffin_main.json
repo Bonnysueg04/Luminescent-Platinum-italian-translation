@@ -1,0 +1,5570 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_dp_poffin_main",
+    "hash": 49965791,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "DP_poffin_main_001",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scheda bacca",
+                    "strWidth": 177.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "DP_poffin_main_002",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pepato",
+                    "strWidth": 92.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "DP_poffin_main_003",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Agro",
+                    "strWidth": 63.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "DP_poffin_main_004",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dolce",
+                    "strWidth": 76.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "DP_poffin_main_005",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Amaro",
+                    "strWidth": 84.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "DP_poffin_main_006",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aspro",
+                    "strWidth": 75.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "DP_poffin_main_007",
+            "styleInfo": {
+                "styleIndex": 166,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 128,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nº",
+                    "strWidth": 31.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 7,
+            "labelName": "DP_poffin_main_008",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 79,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 8,
+            "labelName": "DP_poffin_main_009",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dimensioni",
+                    "strWidth": 143.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 9,
+            "labelName": "DP_poffin_main_010",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ",",
+                    "strWidth": 8.828125
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " cm",
+                    "strWidth": 45.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 10,
+            "labelName": "DP_poffin_main_011",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Consistenza",
+                    "strWidth": 153.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 11,
+            "labelName": "DP_poffin_main_012",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Molto tenera",
+                    "strWidth": 169.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 12,
+            "labelName": "DP_poffin_main_013",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tenera",
+                    "strWidth": 89.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 13,
+            "labelName": "DP_poffin_main_014",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dura",
+                    "strWidth": 62.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 14,
+            "labelName": "DP_poffin_main_015",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Molto dura",
+                    "strWidth": 144.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 15,
+            "labelName": "DP_poffin_main_016",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Durissima",
+                    "strWidth": 123.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 16,
+            "labelName": "DP_poffin_main_017",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La terra è soffice e fertile!",
+                    "strWidth": 335.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 17,
+            "labelName": "DP_poffin_main_020",
+            "styleInfo": {
+                "styleIndex": 51,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pianta una bacca",
+                    "strWidth": 219.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 18,
+            "labelName": "DP_poffin_main_021",
+            "styleInfo": {
+                "styleIndex": 51,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esci",
+                    "strWidth": 48.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 19,
+            "labelName": "DP_poffin_main_025",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi piantare una bacca?",
+                    "strWidth": 329.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 20,
+            "labelName": "DP_poffin_main_026",
+            "styleInfo": {
+                "styleIndex": 51,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sì",
+                    "strWidth": 23.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 21,
+            "labelName": "DP_poffin_main_027",
+            "styleInfo": {
+                "styleIndex": 51,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "No",
+                    "strWidth": 38.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 22,
+            "labelName": "DP_poffin_main_029",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai piantato una ",
+                    "strWidth": 225.671875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nella terra soffice e fertile.",
+                    "strWidth": 344.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 23,
+            "labelName": "DP_poffin_main_030",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Qui è stata piantata una ",
+                    "strWidth": 321.984375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 24,
+            "labelName": "DP_poffin_main_031",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 1
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La pianta di ",
+                    "strWidth": 162.25
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "è germogliata.",
+                    "strWidth": 186.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 25,
+            "labelName": "DP_poffin_main_032",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 1
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La pianta di ",
+                    "strWidth": 162.25
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sta crescendo.",
+                    "strWidth": 184.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 26,
+            "labelName": "DP_poffin_main_033",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La pianta di ",
+                    "strWidth": 162.25
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " è in fiore.",
+                    "strWidth": 133.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 27,
+            "labelName": "DP_poffin_main_034",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi annaffiare la pianta?",
+                    "strWidth": 334.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 28,
+            "labelName": "DP_poffin_main_035",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sì",
+                    "strWidth": 23.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 29,
+            "labelName": "DP_poffin_main_036",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "No",
+                    "strWidth": 38.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 30,
+            "labelName": "DP_poffin_main_037",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ecco fatto! Annaffiata e felice!",
+                    "strWidth": 393.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 31,
+            "labelName": "DP_poffin_main_038",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 1,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [
+                        "C'è",
+                        "Ci sono"
+                    ],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 1,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [
+                        "a",
+                        "e"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ",
+                    "strWidth": 8.671875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ",
+                    "strWidth": 8.671875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 2,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "!",
+                    "strWidth": 7.265625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi coglierl",
+                    "strWidth": 165.109375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 3,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "?",
+                    "strWidth": 14.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 32,
+            "labelName": "DP_poffin_main_039",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sì",
+                    "strWidth": 23.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 33,
+            "labelName": "DP_poffin_main_040",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "No",
+                    "strWidth": 38.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 34,
+            "labelName": "DP_poffin_main_041",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non hai raccolto nessuna ",
+                    "strWidth": 333.5625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 35,
+            "labelName": "DP_poffin_main_042",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai raccolto ",
+                    "strWidth": 167.265625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ",
+                    "strWidth": 8.671875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "!",
+                    "strWidth": 7.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 36,
+            "labelName": "DP_poffin_main_043",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 3,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La tua Borsa è piena. Non puoi raccogliere",
+                    "strWidth": 553.546875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 37,
+            "labelName": "DP_poffin_main_044",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 3,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 3,
+                    "groupID": 1,
+                    "tagID": 24,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai riposto ",
+                    "strWidth": 152.65625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " nella",
+                    "strWidth": 71.078125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tasca ",
+                    "strWidth": 74.78125
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 2,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La terra è di nuovo soffice e fertile.",
+                    "strWidth": 458.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 38,
+            "labelName": "DP_poffin_main_045",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La terra è soffice e fertile.",
+                    "strWidth": 336.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 39,
+            "labelName": "DP_poffin_main_048",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Qui è stata piantata una ",
+                    "strWidth": 321.984375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 40,
+            "labelName": "DP_poffin_main_049",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 1
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La pianta di ",
+                    "strWidth": 162.25
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "è germogliata.",
+                    "strWidth": 186.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 41,
+            "labelName": "DP_poffin_main_050",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 1
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La pianta di ",
+                    "strWidth": 162.25
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sta crescendo.",
+                    "strWidth": 184.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 42,
+            "labelName": "DP_poffin_main_051",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La pianta di ",
+                    "strWidth": 162.25
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " è in fiore.",
+                    "strWidth": 133.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 116,
+            "arrayIndex": 43,
+            "labelName": "DP_poffin_main_189",
+            "styleInfo": {
+                "styleIndex": 74,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1344,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegli un poffin.",
+                    "strWidth": 210.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 44,
+            "labelName": "DP_poffin_main_190",
+            "styleInfo": {
+                "styleIndex": 147,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 126,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 117,
+            "arrayIndex": 45,
+            "labelName": "DP_poffin_main_191",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cambia",
+                    "strWidth": 98.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 118,
+            "arrayIndex": 46,
+            "labelName": "DP_poffin_main_192",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Conferma",
+                    "strWidth": 126.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 119,
+            "arrayIndex": 47,
+            "labelName": "DP_poffin_main_193",
+            "styleInfo": {
+                "styleIndex": 7,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 540,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoto",
+                    "strWidth": 79.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 48,
+            "labelName": "DP_poffin_main_060",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ha mangiato il poffin molto",
+                    "strWidth": 361.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "volentieri!",
+                    "strWidth": 128.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 49,
+            "labelName": "DP_poffin_main_061",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 1
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ha mangiato il poffin",
+                    "strWidth": 277.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "malvolentieri...",
+                    "strWidth": 190.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 50,
+            "labelName": "DP_poffin_main_062",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ha mangiato il poffin.",
+                    "strWidth": 285.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 120,
+            "arrayIndex": 51,
+            "labelName": "DP_poffin_main_194",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Classe aumenta!",
+                    "strWidth": 247.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 121,
+            "arrayIndex": 52,
+            "labelName": "DP_poffin_main_195",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Grinta aumenta!",
+                    "strWidth": 246.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 122,
+            "arrayIndex": 53,
+            "labelName": "DP_poffin_main_196",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Bellezza aumenta!",
+                    "strWidth": 271.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 123,
+            "arrayIndex": 54,
+            "labelName": "DP_poffin_main_197",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Grazia aumenta!",
+                    "strWidth": 249.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 124,
+            "arrayIndex": 55,
+            "labelName": "DP_poffin_main_198",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "L’Acume aumenta!",
+                    "strWidth": 238.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 125,
+            "arrayIndex": 56,
+            "labelName": "DP_poffin_main_199",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nessun effetto!",
+                    "strWidth": 196.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 126,
+            "arrayIndex": 57,
+            "labelName": "DP_poffin_main_200",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non ne mangia più...",
+                    "strWidth": 268.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 58,
+            "labelName": "DP_poffin_main_201",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 15,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 80,
+            "labelName": "DP_poffin_main_092",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Benvenut",
+                    "strWidth": 120.109375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "! Qui puoi preparare dei poffin",
+                    "strWidth": 399.78125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "con le tue bacche.",
+                    "strWidth": 237.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 81,
+            "labelName": "DP_poffin_main_179b",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Bene! Gli altri Pokémon possono andare",
+                    "strWidth": 520.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a giocare nel parco!",
+                    "strWidth": 257.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 82,
+            "labelName": "DP_poffin_main_098",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ops! Non hai nemmeno una bacca...",
+                    "strWidth": 468.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 83,
+            "labelName": "DP_poffin_main_099",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ops! Il Portapoffin è pieno.",
+                    "strWidth": 354.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 84,
+            "labelName": "DP_poffin_main_100",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per cucinare delle bacche devi avere",
+                    "strWidth": 475.546875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "un Portapoffin.",
+                    "strWidth": 193.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 85,
+            "labelName": "DP_poffin_main_101",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cucina",
+                    "strWidth": 88.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 86,
+            "labelName": "DP_poffin_main_103",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Info",
+                    "strWidth": 50.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 87,
+            "labelName": "DP_poffin_main_104",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esci",
+                    "strWidth": 48.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 88,
+            "labelName": "DP_poffin_main_123",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ok! Cominciamo a cucinare!",
+                    "strWidth": 362.6875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegli una bacca fra quelle che hai nella Borsa.",
+                    "strWidth": 608.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 89,
+            "labelName": "DP_poffin_main_125",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Torna pure quando avrai voglia di cucinare!",
+                    "strWidth": 563.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 90,
+            "labelName": "DP_poffin_main_126",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 91,
+            "labelName": "DP_poffin_main_127",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 4,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ID: ",
+                    "strWidth": 49.28125
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 92,
+            "labelName": "DP_poffin_main_128",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Portapoffin",
+                    "strWidth": 145.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 93,
+            "labelName": "DP_poffin_main_129",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dai",
+                    "strWidth": 45.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 94,
+            "labelName": "DP_poffin_main_130",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Butta",
+                    "strWidth": 68.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 95,
+            "labelName": "DP_poffin_main_131",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Indietro",
+                    "strWidth": 101.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 96,
+            "labelName": "DP_poffin_main_132",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Morbidezza:",
+                    "strWidth": 162.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 97,
+            "labelName": "DP_poffin_main_133",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "L. ",
+                    "strWidth": 31.546875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 98,
+            "labelName": "DP_poffin_main_134",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esci",
+                    "strWidth": 48.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 99,
+            "labelName": "DP_poffin_main_135",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 15,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi buttare via il ",
+                    "strWidth": 241.25
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "?",
+                    "strWidth": 14.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 100,
+            "labelName": "DP_poffin_main_136",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 15,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai buttato via il ",
+                    "strWidth": 227.40625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 101,
+            "labelName": "DP_poffin_main_137",
+            "styleInfo": {
+                "styleIndex": 40,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sì",
+                    "strWidth": 23.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 102,
+            "labelName": "DP_poffin_main_138",
+            "styleInfo": {
+                "styleIndex": 40,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "No",
+                    "strWidth": 38.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 103,
+            "labelName": "DP_poffin_main_139",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pepato",
+                    "strWidth": 92.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 104,
+            "labelName": "DP_poffin_main_140",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Agro",
+                    "strWidth": 63.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 105,
+            "labelName": "DP_poffin_main_141",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dolce",
+                    "strWidth": 76.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 106,
+            "labelName": "DP_poffin_main_142",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Amaro",
+                    "strWidth": 84.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 107,
+            "labelName": "DP_poffin_main_143",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aspro",
+                    "strWidth": 75.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 108,
+            "labelName": "DP_poffin_main_144",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tutti",
+                    "strWidth": 60.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 109,
+            "labelName": "DP_poffin_main_145",
+            "styleInfo": {
+                "styleIndex": 74,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1344,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mangiare poffin pepati fa aumentare la Classe.",
+                    "strWidth": 608.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 110,
+            "labelName": "DP_poffin_main_146",
+            "styleInfo": {
+                "styleIndex": 74,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1344,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mangiare poffin agri fa aumentare la Bellezza.",
+                    "strWidth": 597.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 111,
+            "labelName": "DP_poffin_main_147",
+            "styleInfo": {
+                "styleIndex": 74,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1344,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mangiare poffin dolci fa aumentare la Grazia.",
+                    "strWidth": 590.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 112,
+            "labelName": "DP_poffin_main_148",
+            "styleInfo": {
+                "styleIndex": 74,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1344,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mangiare poffin amari fa aumentare l’Acume.",
+                    "strWidth": 586.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 113,
+            "labelName": "DP_poffin_main_149",
+            "styleInfo": {
+                "styleIndex": 74,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1344,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mangiare poffin aspri fa aumentare la Grinta.",
+                    "strWidth": 585.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 115,
+            "labelName": "DP_poffin_main_152",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 9,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai aggiunto la ",
+                    "strWidth": 207.65625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 116,
+            "labelName": "DP_poffin_main_153",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 117,
+            "labelName": "DP_poffin_main_154",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mescola o si brucerà!",
+                    "strWidth": 274.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 118,
+            "labelName": "DP_poffin_main_155",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Rallenta! Sta traboccando!",
+                    "strWidth": 340.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 119,
+            "labelName": "DP_poffin_main_156",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sbrigati! Si brucia!",
+                    "strWidth": 233.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 120,
+            "labelName": "DP_poffin_main_157",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un po’ più lentamente!",
+                    "strWidth": 298.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 121,
+            "labelName": "DP_poffin_main_158",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veloce! Veloce!",
+                    "strWidth": 204.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 122,
+            "labelName": "DP_poffin_main_159",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ecco fatto!",
+                    "strWidth": 139.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 123,
+            "labelName": "DP_poffin_main_160",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Risultati",
+                    "strWidth": 103.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 124,
+            "labelName": "DP_poffin_main_161",
+            "styleInfo": {
+                "styleIndex": 65,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tempo di cottura:",
+                    "strWidth": 234.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 125,
+            "labelName": "DP_poffin_main_162",
+            "styleInfo": {
+                "styleIndex": 65,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 2,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ":",
+                    "strWidth": 10.109375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ":",
+                    "strWidth": 10.109375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 2,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 126,
+            "labelName": "DP_poffin_main_163",
+            "styleInfo": {
+                "styleIndex": 65,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Traboccato:",
+                    "strWidth": 157.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 127,
+            "labelName": "DP_poffin_main_164",
+            "styleInfo": {
+                "styleIndex": 65,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 3,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 1,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [
+                        "a",
+                        "e"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " volt",
+                    "strWidth": 57.734375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 128,
+            "labelName": "DP_poffin_main_165",
+            "styleInfo": {
+                "styleIndex": 65,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Bruciato:",
+                    "strWidth": 116.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 129,
+            "labelName": "DP_poffin_main_166",
+            "styleInfo": {
+                "styleIndex": 65,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 3,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 1,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [
+                        "a",
+                        "e"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " volt",
+                    "strWidth": 57.734375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 130,
+            "labelName": "DP_poffin_main_167",
+            "styleInfo": {
+                "styleIndex": 65,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tipo e quantità:",
+                    "strWidth": 209.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 131,
+            "labelName": "DP_poffin_main_168",
+            "styleInfo": {
+                "styleIndex": 65,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 3,
+                    "groupID": 1,
+                    "tagID": 15,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 1
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 2,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " di L. ",
+                    "strWidth": 73.78125
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " x ",
+                    "strWidth": 31.8125
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 2,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 132,
+            "labelName": "DP_poffin_main_171",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 3,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 3,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 3,
+                    "groupID": 1,
+                    "tagID": 15,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai messo ",
+                    "strWidth": 141.140625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nel Portapoffin.",
+                    "strWidth": 201.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 133,
+            "labelName": "DP_poffin_main_172",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi continuare a preparare poffin?",
+                    "strWidth": 464.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 134,
+            "labelName": "DP_poffin_main_174",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegli una bacca fra quelle che hai nella Borsa.",
+                    "strWidth": 608.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 135,
+            "labelName": "DP_poffin_main_175",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ops! Il Portapoffin è pieno.",
+                    "strWidth": 354.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 136,
+            "labelName": "DP_poffin_main_176",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non hai bacche da cucinare.",
+                    "strWidth": 367.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 138,
+            "labelName": "DP_poffin_main_124",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Metti le bacche nella pentola e mescola",
+                    "strWidth": 519.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nella direzione indicata dalla freccia.",
+                    "strWidth": 477.171875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fai attenzione, però! Se mescoli troppo",
+                    "strWidth": 511.46875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lentamente, brucerai l’impasto.",
+                    "strWidth": 402.203125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se invece ci metti troppa foga, rischierai",
+                    "strWidth": 522.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di farlo traboccare.",
+                    "strWidth": 248.03125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quindi cerca di fare le cose con cura e il tuo",
+                    "strWidth": 576.828125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "poffin verrà una meraviglia!",
+                    "strWidth": 353.71875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Infine, ricorda che puoi preparare i poffin",
+                    "strWidth": 538.1875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "anche nel Parco Concordia.",
+                    "strWidth": 355.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 139,
+            "labelName": "DP_poffin_main_178",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Con quale Pokémon desideri passeggiare?",
+                    "strWidth": 549.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 140,
+            "labelName": "DP_poffin_main_179a",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Bene! L’altro Pokémon può andare a giocare",
+                    "strWidth": 577.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nel parco!",
+                    "strWidth": 128.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 141,
+            "labelName": "DP_poffin_main_180a",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Goditi la tua passeggiata!",
+                    "strWidth": 332.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokémon ti aspetta nel parco!",
+                    "strWidth": 412.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 110,
+            "arrayIndex": 143,
+            "labelName": "DP_poffin_main_182",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non puoi passeggiare con quel Pokémon.",
+                    "strWidth": 538.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 111,
+            "arrayIndex": 144,
+            "labelName": "DP_poffin_main_183",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi riporre la bacca nella Borsa?",
+                    "strWidth": 437.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 112,
+            "arrayIndex": 145,
+            "labelName": "DP_poffin_main_184",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi usare la quantità di bacche selezionata?",
+                    "strWidth": 586.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 113,
+            "arrayIndex": 146,
+            "labelName": "DP_poffin_main_185",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Metti le bacche nella pentola e mescola",
+                    "strWidth": 519.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nella direzione indicata dalla freccia.",
+                    "strWidth": 477.171875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fai attenzione, però! Se mescoli troppo",
+                    "strWidth": 511.46875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lentamente, brucerai l’impasto.",
+                    "strWidth": 402.203125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se invece ci metti troppa foga, rischierai",
+                    "strWidth": 522.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di farlo traboccare.",
+                    "strWidth": 248.03125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quindi cerca di fare le cose con cura e il tuo",
+                    "strWidth": 576.828125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "poffin verrà una meraviglia!",
+                    "strWidth": 353.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 147,
+            "labelName": "DP_poffin_main_186",
+            "styleInfo": {
+                "styleIndex": 147,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 126,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 114,
+            "arrayIndex": 148,
+            "labelName": "DP_poffin_main_187",
+            "styleInfo": {
+                "styleIndex": 81,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tutto pronto",
+                    "strWidth": 165.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 115,
+            "arrayIndex": 149,
+            "labelName": "DP_poffin_main_188",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Metti via le bacche",
+                    "strWidth": 248.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 150,
+            "labelName": "DP_poffin_main_180b",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Goditi la tua passeggiata!",
+                    "strWidth": 332.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I Pokémon ti aspettano nel parco!",
+                    "strWidth": 437.140625
+                }
+            ]
+        }
+    ]
+}

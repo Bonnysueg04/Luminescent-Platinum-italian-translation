@@ -1,0 +1,2146 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_btl_tower_menu_ui_text",
+    "hash": 1983844876,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "msg_tower_receptionist_14",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegli le regole e i Pokémon per la lotta.",
+                    "strWidth": 530.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "msg_tower_receptionist_15",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Molto bene. Prego, per di qua!",
+                    "strWidth": 401.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "msg_tower_receptionist_00",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Benvenut",
+                    "strWidth": 120.109375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " alla Torre Lotta!",
+                    "strWidth": 216.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "msg_tower_receptionist_01",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cosa posso fare per te?",
+                    "strWidth": 307.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "msg_tower_receptionist_02",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi continuare a lottare?",
+                    "strWidth": 338.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "msg_tower_receptionist_03",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grazie per essere venut",
+                    "strWidth": 305.625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " alla Torre Lotta!",
+                    "strWidth": 216.515625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Speriamo di rivederti presto!",
+                    "strWidth": 368.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "msg_tower_receptionist_04",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ah, non è andata bene...",
+                    "strWidth": 320.78125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Beh, speriamo di rivederti presto!",
+                    "strWidth": 431.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "msg_tower_receptionist_05",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Complimenti! Sei salit",
+                    "strWidth": 280.578125
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " al grado ",
+                    "strWidth": 124.671875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "!",
+                    "strWidth": 7.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "msg_tower_receptionist_06",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Meriti una ricompensa per rendere",
+                    "strWidth": 447.671875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "onore al tuo nuovo grado!",
+                    "strWidth": 338.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "msg_tower_receptionist_07",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il sistema di valutazione è stato aggiunto ai Box!",
+                    "strWidth": 625.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "msg_tower_receptionist_08",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ora puoi scegliere la musica di sottofondo",
+                    "strWidth": 551.078125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per la Torre Lotta!",
+                    "strWidth": 236.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "msg_tower_description_00",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Torre Lotta, come si evince dal nome,",
+                    "strWidth": 529.5625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "è una struttura dedicata alle lotte Pokémon.",
+                    "strWidth": 570.015625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Qui potrai partecipare alle Lotte in Singolo",
+                    "strWidth": 559.703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e alle Lotte in Doppio di Classe Master e non.",
+                    "strWidth": 598.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vincendo le lotte, potrai ottenere premi",
+                    "strWidth": 520.671875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "come Caramelle rare e PL!",
+                    "strWidth": 340.265625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "È il posto perfetto per affinare la propria",
+                    "strWidth": 529.6875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "abilità nelle lotte!",
+                    "strWidth": 229.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "msg_tower_choice_00",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Voglio lottare!",
+                    "strWidth": 187.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "msg_tower_choice_01",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Spiegami come funziona",
+                    "strWidth": 314.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "msg_tower_choice_02",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esci",
+                    "strWidth": 48.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "msg_tower_choice_03",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Continua",
+                    "strWidth": 117.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 16,
+            "labelName": "msg_tower_info_01",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 3,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai ottenuto ",
+                    "strWidth": 173.84375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " PL!",
+                    "strWidth": 47.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 17,
+            "labelName": "msg_tower_rental_choice_00",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Con piacere!",
+                    "strWidth": 164.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 18,
+            "labelName": "msg_tower_rental_choice_01",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non adesso",
+                    "strWidth": 151.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 19,
+            "labelName": "msg_tower_rental_choice_02",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Voglio questa squadra!",
+                    "strWidth": 298.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 20,
+            "labelName": "msg_tower_rental_choice_03",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dimmi di più...",
+                    "strWidth": 189.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 21,
+            "labelName": "msg_tower_rental_choice_04",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fammi vedere le altre!",
+                    "strWidth": 289.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 22,
+            "labelName": "msg_tower_rental_talk_00",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi prendere in prestito una delle mie",
+                    "strWidth": 509.671875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Squadre Lotta?",
+                    "strWidth": 197.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 23,
+            "labelName": "msg_tower_rental_talk_01",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ok. Torna da me se cambi idea!",
+                    "strWidth": 412.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 24,
+            "labelName": "msg_tower_rental_talk_02",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Che squadra vuoi prendere in prestito?",
+                    "strWidth": 505.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 25,
+            "labelName": "msg_tower_rental_talk_03",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mi sa che non hai più spazio...",
+                    "strWidth": 390.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 26,
+            "labelName": "msg_tower_rental_talk_04",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ti interessa questa Squadra Lotta?",
+                    "strWidth": 446.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 27,
+            "labelName": "msg_tower_rental_talk_05",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Buona fortuna!",
+                    "strWidth": 189.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 28,
+            "labelName": "msg_tower_rental_talk_06",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai già preso in prestito questa squadra.",
+                    "strWidth": 525.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 29,
+            "labelName": "msg_tower_rental_team_00",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Semplicità",
+                    "strWidth": 133.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 30,
+            "labelName": "msg_tower_rental_team_01",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Impulso",
+                    "strWidth": 100.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 31,
+            "labelName": "msg_tower_rental_team_02",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Equilibrio",
+                    "strWidth": 123.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 32,
+            "labelName": "msg_tower_rental_team_03",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Uggiosità",
+                    "strWidth": 122.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 33,
+            "labelName": "msg_tower_rental_team_04",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Flemma",
+                    "strWidth": 100.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 34,
+            "labelName": "msg_tower_rental_team_05",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esci",
+                    "strWidth": 48.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 35,
+            "labelName": "msg_tower_receptionist_10",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai raggiunto il grado ",
+                    "strWidth": 293.875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "!",
+                    "strWidth": 7.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 36,
+            "labelName": "msg_tower_receptionist_12",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sei sces",
+                    "strWidth": 100.65625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " di grado...",
+                    "strWidth": 141.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 37,
+            "labelName": "mes_tower_rental_system",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 57,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai preso in prestito la squadra \"",
+                    "strWidth": 426.609375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "\"!",
+                    "strWidth": 17.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 38,
+            "labelName": "msg_tower_choice_04",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riposa",
+                    "strWidth": 86.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 39,
+            "labelName": "msg_tower_choice_05",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sospendi",
+                    "strWidth": 117.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 40,
+            "labelName": "58-msg_t06pc0101_pc_mewtwo_01",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Greetings, Pokémon Trainer.",
+                    "strWidth": 370.5
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I bare an invitation.",
+                    "strWidth": 251.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "You have been invited to a battle by",
+                    "strWidth": 477.140625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "the world's greatest Pokémon.",
+                    "strWidth": 391.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Please accept this invitation and",
+                    "strWidth": 417.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "attend me at the Gate.",
+                    "strWidth": 289.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 41,
+            "labelName": "58-msg_t06pc0101_pc_mewtwo_02",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I shall await your arrival.",
+                    "strWidth": 313.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 42,
+            "labelName": "58-msg_t06pc0101_pc_mewtwo_03",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hm? Where am I..?",
+                    "strWidth": 247.71875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "This is the Battleground?",
+                    "strWidth": 320.921875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I don’t understand what happened...",
+                    "strWidth": 470.375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "But your Pokémon need healing, right?",
+                    "strWidth": 503.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "A true Pokémon nurse never rests!",
+                    "strWidth": 439.921875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Speak to me if your team needs help.",
+                    "strWidth": 484.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 43,
+            "labelName": "58-msg_t06pc0101_pc_mewtwo_getinvitation",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " received the Odd Invitation! ",
+                    "strWidth": 390.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 44,
+            "labelName": "58-msg_d14r0102_Mewtwo_teleport_01",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "A mysterious voice calls out to you.",
+                    "strWidth": 458.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 45,
+            "labelName": "58-msg_d14r0102_Mewtwo_teleport_02",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "It seems you've accepted my invitation.",
+                    "strWidth": 510.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 46,
+            "labelName": "58-msg_d10r0601_mewtwo_leave",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "A mysterious force stops you from leaving",
+                    "strWidth": 541.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 47,
+            "labelName": "58-msg_d10r0601_mewtwo_win",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "...",
+                    "strWidth": 23.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 48,
+            "labelName": "58-msg_d10r0601_mewtwo_last_pokemon",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "You may be strong enough after all.",
+                    "strWidth": 465.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 49,
+            "labelName": "58-msg_d10r0601_mewtwo_trainer_lose",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "What a shame, not even Sinnoh’s champion can ",
+                    "strWidth": 625.78125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "match my strength",
+                    "strWidth": 236.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 50,
+            "labelName": "58-msg_d10r0601_mewtwo_trainer_start_01",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "For years I have traveled the world to test my ",
+                    "strWidth": 597.046875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "strength against any who dare face me.",
+                    "strWidth": 505.71875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Only one has proven any challenge at all.",
+                    "strWidth": 537.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "But now, I have cloned his Pokémon.",
+                    "strWidth": 475.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 51,
+            "labelName": "58-msg_d10r0601_mewtwo_trainer_start_02",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Do you truly think you stand a chance?",
+                    "strWidth": 505.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 52,
+            "labelName": "58-msg_d10r0601_mewtwo_capture",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fine, I'll do it myself.",
+                    "strWidth": 273.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 53,
+            "labelName": "58-msg_d10r0601_mewtwo_capture_retry",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Back again?",
+                    "strWidth": 154.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 54,
+            "labelName": "58-msg_d10r0601_mewtwo_trainer_start_01_alt",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "For years I have traveled the world in this form to ",
+                    "strWidth": 648.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "test my strength against any who dare face me. ",
+                    "strWidth": 616.40625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Only one has proven any challenge at all. But now,",
+                    "strWidth": 658.71875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I have cloned his Pokémon",
+                    "strWidth": 346.09375
+                }
+            ]
+        }
+    ]
+}

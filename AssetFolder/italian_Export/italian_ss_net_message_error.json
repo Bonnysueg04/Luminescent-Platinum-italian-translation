@@ -1,0 +1,839 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_net_message_error",
+    "hash": -677861697,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "error_o_serial_0031",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si è verificato un errore con il server di",
+                    "strWidth": 502.578125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "autenticazione del codice seriale.",
+                    "strWidth": 433.390625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riprova più tardi.",
+                    "strWidth": 224.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 1,
+            "labelName": "error_comm_28",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Impossibile collegarsi al server.",
+                    "strWidth": 401.515625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riprova dall’inizio.",
+                    "strWidth": 240.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 2,
+            "labelName": "error_o_serial_0091",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si è verificato un errore con il server di",
+                    "strWidth": 502.578125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "autenticazione del codice seriale a causa della",
+                    "strWidth": 602.546875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "manutenzione in corso. Riprova più tardi.",
+                    "strWidth": 530.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 4,
+            "labelName": "error_o_serial_0092",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Questo servizio non è più disponibile.",
+                    "strWidth": 489.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 6,
+            "labelName": "error_o_serial_0098",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si è verificato un errore con il server di",
+                    "strWidth": 502.578125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "autenticazione del codice seriale.",
+                    "strWidth": 433.390625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riprova più tardi.",
+                    "strWidth": 224.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 8,
+            "labelName": "error_o_serial_0099",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si è verificato un errore con il server di",
+                    "strWidth": 502.578125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "autenticazione del codice seriale.",
+                    "strWidth": 433.390625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riprova più tardi.",
+                    "strWidth": 224.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 10,
+            "labelName": "error_o_serial_http500",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il server di autenticazione del codice seriale",
+                    "strWidth": 569.40625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sta registrando un alto volume di traffico.",
+                    "strWidth": 535.609375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riprova più tardi.",
+                    "strWidth": 224.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 12,
+            "labelName": "error_comm_03",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La comunicazione con il server è stata interrotta.",
+                    "strWidth": 628.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 13,
+            "labelName": "error_comm_07",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La comunicazione con l’altro Allenatore",
+                    "strWidth": 514.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "è stata interrotta.",
+                    "strWidth": 224.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 14,
+            "labelName": "error_fatal_save_00",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si è verificato un errore.",
+                    "strWidth": 311.984375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Impossibile effettuare lo scambio di Pokémon.",
+                    "strWidth": 599.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Premi il pulsante HOME per uscire dal gioco.",
+                    "strWidth": 583.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 15,
+            "labelName": "erro_fatal_storage",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non è stato possibile individuare dati di gioco",
+                    "strWidth": 599.484375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nella console Nintendo Switch.",
+                    "strWidth": 398.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Spegni la console e riprova.",
+                    "strWidth": 359.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 16,
+            "labelName": "error_comm_21",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La password inserita non corrisponde.",
+                    "strWidth": 486.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riprova dall’inizio.",
+                    "strWidth": 240.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 17,
+            "labelName": "error_comm_24",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Impossibile continuare. Il numero di partecipanti",
+                    "strWidth": 625.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ha raggiunto il limite.",
+                    "strWidth": 275.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 18,
+            "labelName": "error_comm_25",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non è stato trovato alcun avversario.",
+                    "strWidth": 477.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 19,
+            "labelName": "error_validation_common",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si è verificato un errore sul server.",
+                    "strWidth": 441.046875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riprova.",
+                    "strWidth": 106.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 20,
+            "labelName": "error_validation_http503",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "È in corso la manutenzione del server.",
+                    "strWidth": 489.46875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riprova più tardi.",
+                    "strWidth": 224.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 21,
+            "labelName": "error_comm_26",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La comunicazione si è interrotta.",
+                    "strWidth": 420.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 22,
+            "labelName": "error_comm_27",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "È rimasto un solo partecipante.",
+                    "strWidth": 401.125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Gara-show in link verrà terminata.",
+                    "strWidth": 476.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 23,
+            "labelName": "error_comm_05",
+            "styleInfo": {
+                "styleIndex": 26,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Impossibile collegarsi con l’altro Allenatore.",
+                    "strWidth": 568.859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riprova dall’inizio.",
+                    "strWidth": 240.8125
+                }
+            ]
+        }
+    ]
+}

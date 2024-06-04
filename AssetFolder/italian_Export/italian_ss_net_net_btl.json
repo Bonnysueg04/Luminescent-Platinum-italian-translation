@@ -1,0 +1,4550 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_net_net_btl",
+    "hash": 924455957,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_net_net_btl_001",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotta in Singolo",
+                    "strWidth": 204.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_net_net_btl_002",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotta in Doppio",
+                    "strWidth": 206.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_net_net_btl_004",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 3,
+            "labelName": "SS_net_net_btl_009",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Comunicazione in corso.",
+                    "strWidth": 315.359375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attendi...",
+                    "strWidth": 120.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 4,
+            "labelName": "SS_net_net_btl_010",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi uscire dalle lotte?",
+                    "strWidth": 300.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 5,
+            "labelName": "SS_net_net_btl_011",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un partecipante ha interrotto la comunicazione.",
+                    "strWidth": 620.171875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotta terminata.",
+                    "strWidth": 206.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 6,
+            "labelName": "SS_net_net_btl_012",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Interruzione del collegamento in corso.",
+                    "strWidth": 506.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 7,
+            "labelName": "SS_net_net_btl_015",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sarai tu a scegliere le regole della lotta.",
+                    "strWidth": 518.359375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi continuare?",
+                    "strWidth": 219.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 8,
+            "labelName": "SS_net_net_btl_016",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Selezione del giocatore che deciderà le regole",
+                    "strWidth": 605.59375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "in corso. Attendi...",
+                    "strWidth": 238.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 9,
+            "labelName": "SS_net_net_btl_017",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ha interrotto la scelta",
+                    "strWidth": 286.125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "delle regole della lotta.",
+                    "strWidth": 305.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 10,
+            "labelName": "SS_net_net_btl_018",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " sta scegliendo le regole",
+                    "strWidth": 317.015625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "della lotta.",
+                    "strWidth": 141.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 11,
+            "labelName": "SS_net_net_btl_019",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegli le regole della lotta.",
+                    "strWidth": 350.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 12,
+            "labelName": "SS_net_net_btl_021",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi che sia un altro giocatore a scegliere",
+                    "strWidth": 545.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "le regole della lotta?",
+                    "strWidth": 271.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 13,
+            "labelName": "SS_net_net_btl_022",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Comunicazione delle regole in corso.",
+                    "strWidth": 480.203125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attendi...",
+                    "strWidth": 120.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 14,
+            "labelName": "SS_net_net_btl_024",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi tornare indietro e scegliere delle regole",
+                    "strWidth": 584.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "diverse?",
+                    "strWidth": 106.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 15,
+            "labelName": "SS_net_net_btl_025",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Invio dell’informazione in corso.",
+                    "strWidth": 414.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 16,
+            "labelName": "SS_net_net_btl_026",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Almeno uno dei giocatori non può partecipare.",
+                    "strWidth": 609.359375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Verranno scelte delle nuove regole della lotta.",
+                    "strWidth": 604.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 17,
+            "labelName": "SS_net_net_btl_027",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se le regole attuali non ti consentono di",
+                    "strWidth": 520.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "partecipare, scegli \"Cambia le regole\".",
+                    "strWidth": 498.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 18,
+            "labelName": "SS_net_net_btl_028",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gli altri giocatori non sono ancora pronti.",
+                    "strWidth": 537.671875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attendi...",
+                    "strWidth": 120.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 19,
+            "labelName": "SS_net_net_btl_029",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegli i Pokémon con cui partecipare.",
+                    "strWidth": 487.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 20,
+            "labelName": "SS_net_net_btl_030",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Chi sarà il ",
+                    "strWidth": 136.609375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "º?",
+                    "strWidth": 24.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 21,
+            "labelName": "SS_net_net_btl_031",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Formazione delle squadre in corso.",
+                    "strWidth": 452.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attendi...",
+                    "strWidth": 120.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 22,
+            "labelName": "SS_net_net_btl_032",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi continuare a giocare?",
+                    "strWidth": 348.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 23,
+            "labelName": "SS_net_net_btl_033",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "In attesa degli altri giocatori...",
+                    "strWidth": 390.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 24,
+            "labelName": "SS_net_net_btl_034",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotta di nuovo con le stesse regole.",
+                    "strWidth": 461.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 25,
+            "labelName": "SS_net_net_btl_035",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotta di nuovo con regole diverse.",
+                    "strWidth": 444.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 26,
+            "labelName": "SS_net_net_btl_036",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sì",
+                    "strWidth": 23.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 27,
+            "labelName": "SS_net_net_btl_037",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "No",
+                    "strWidth": 38.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 28,
+            "labelName": "SS_net_net_btl_038",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sì",
+                    "strWidth": 23.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 29,
+            "labelName": "SS_net_net_btl_039",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "No",
+                    "strWidth": 38.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 30,
+            "labelName": "SS_net_net_btl_041",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Indietro",
+                    "strWidth": 101.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 31,
+            "labelName": "SS_net_net_btl_044",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Via alla lotta!",
+                    "strWidth": 174.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 32,
+            "labelName": "SS_net_net_btl_045",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gioca con le stesse regole",
+                    "strWidth": 341.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 33,
+            "labelName": "SS_net_net_btl_046",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gioca con regole diverse",
+                    "strWidth": 324.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 34,
+            "labelName": "SS_net_net_btl_051",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scelta automatica",
+                    "strWidth": 230.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 35,
+            "labelName": "SS_net_net_btl_052",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 36,
+            "labelName": "SS_net_net_btl_054",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esci",
+                    "strWidth": 48.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 37,
+            "labelName": "SS_net_net_btl_056",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ok",
+                    "strWidth": 39.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 38,
+            "labelName": "SS_net_net_btl_058",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Indietro",
+                    "strWidth": 101.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 39,
+            "labelName": "SS_net_net_btl_062",
+            "styleInfo": {
+                "styleIndex": 38,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 336,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scelta in corso.",
+                    "strWidth": 196.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 40,
+            "labelName": "SS_net_net_btl_063",
+            "styleInfo": {
+                "styleIndex": 38,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 336,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tutto pronto!",
+                    "strWidth": 172.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 41,
+            "labelName": "SS_net_net_btl_064",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Normale",
+                    "strWidth": 110.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 42,
+            "labelName": "SS_net_net_btl_065",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Regole della Torre Lotta",
+                    "strWidth": 317.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 43,
+            "labelName": "SS_net_net_btl_066",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Senza restrizioni",
+                    "strWidth": 209.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 44,
+            "labelName": "SS_net_net_btl_067",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Squadra partecipante",
+                    "strWidth": 278.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 45,
+            "labelName": "SS_net_net_btl_069",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 57,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 46,
+            "labelName": "SS_net_net_btl_070",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Musica",
+                    "strWidth": 89.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 47,
+            "labelName": "SS_net_net_btl_071",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 61,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 48,
+            "labelName": "SS_net_net_btl_073",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si è verificato un problema con i dati delle regole",
+                    "strWidth": 644.484375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ricevuti. Attendi la ricezione di nuovi dati.",
+                    "strWidth": 543.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 49,
+            "labelName": "SS_net_net_btl_075",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi che sia un altro giocatore a scegliere",
+                    "strWidth": 545.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "le regole della lotta?",
+                    "strWidth": 271.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 50,
+            "labelName": "SS_net_net_btl_076",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Comunicazione delle regole in corso.",
+                    "strWidth": 480.203125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attendi...",
+                    "strWidth": 120.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 51,
+            "labelName": "SS_net_net_btl_077",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si è verificato un problema con i dati delle regole",
+                    "strWidth": 644.484375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "inviati. Scegli nuovamente le regole della lotta.",
+                    "strWidth": 611.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 52,
+            "labelName": "SS_net_net_btl_079",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Verranno scelte delle nuove regole della lotta.",
+                    "strWidth": 604.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 53,
+            "labelName": "SS_net_net_btl_080",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "C’è un problema con la Squadra Lotta.",
+                    "strWidth": 502.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 54,
+            "labelName": "SS_net_net_btl_081",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "C’è un problema con la Squadra Lotta",
+                    "strWidth": 494.4375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di un altro giocatore.",
+                    "strWidth": 272.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 55,
+            "labelName": "SS_net_net_btl_090",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non potrai giocare tramite le funzioni di",
+                    "strWidth": 521.125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "comunicazione con gli utenti bloccati.",
+                    "strWidth": 489.921875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi davvero bloccare questo utente?",
+                    "strWidth": 494.765625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "(È possibile sbloccarlo in seguito)",
+                    "strWidth": 435.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 56,
+            "labelName": "SS_net_net_btl_092",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Chi vuoi aggiungere alla lista degli utenti",
+                    "strWidth": 532.171875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "bloccati?",
+                    "strWidth": 117.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 57,
+            "labelName": "SS_net_net_btl_094",
+            "styleInfo": {
+                "styleIndex": 110,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 768,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegli la squadra con cui desideri lottare.",
+                    "strWidth": 534.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 58,
+            "labelName": "SS_net_net_btl_095",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegli la formazione delle squadre.",
+                    "strWidth": 453.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 59,
+            "labelName": "SS_net_net_btl_096",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 73,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 60,
+            "labelName": "SS_net_net_btl_097",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cambia le regole",
+                    "strWidth": 222.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 61,
+            "labelName": "SS_net_net_btl_098",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Durante questa lotta gli altri giocatori potranno",
+                    "strWidth": 616.640625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "vedere il soprannome dei tuoi Pokémon.",
+                    "strWidth": 524.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 62,
+            "labelName": "SS_net_net_btl_099",
+            "styleInfo": {
+                "styleIndex": 34,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 168,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esci",
+                    "strWidth": 48.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 63,
+            "labelName": "SS_net_net_btl_100",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Formazione squadre",
+                    "strWidth": 261.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 64,
+            "labelName": "SS_net_net_btl_101",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le squadre per la Lotta Mista sono pronte.",
+                    "strWidth": 553.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 65,
+            "labelName": "SS_net_net_btl_005",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Squadra A1",
+                    "strWidth": 148.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 66,
+            "labelName": "SS_net_net_btl_006",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Squadra A2",
+                    "strWidth": 152.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 67,
+            "labelName": "SS_net_net_btl_104",
+            "styleInfo": {
+                "styleIndex": 35,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 210,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 68,
+            "labelName": "SS_net_net_btl_105",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 69,
+            "labelName": "SS_net_net_btl_007",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Squadra B1",
+                    "strWidth": 145.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 70,
+            "labelName": "SS_net_net_btl_008",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Squadra B2",
+                    "strWidth": 149.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 71,
+            "labelName": "SS_net_net_btl_013",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegli chi deciderà le regole della lotta.",
+                    "strWidth": 517.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 72,
+            "labelName": "SS_net_net_btl_057",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Termina",
+                    "strWidth": 103.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 73,
+            "labelName": "SS_net_net_btl_106",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Che tipo di connessione vuoi usare per lottare?",
+                    "strWidth": 612.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 74,
+            "labelName": "SS_net_net_btl_107",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Internet",
+                    "strWidth": 101.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 75,
+            "labelName": "SS_net_net_btl_108",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Comunicazione locale",
+                    "strWidth": 284.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 76,
+            "labelName": "SS_net_net_btl_109",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Annulla",
+                    "strWidth": 97.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 77,
+            "labelName": "SS_net_net_btl_110",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vuoi entrare nel Colosseo?",
+                    "strWidth": 350.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 78,
+            "labelName": "SS_net_net_btl_111",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Buon divertimento, allora!",
+                    "strWidth": 335.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 79,
+            "labelName": "SS_net_net_btl_112",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Uscirai dal Colosseo.",
+                    "strWidth": 271.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Va bene?",
+                    "strWidth": 123.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 80,
+            "labelName": "SS_net_net_btl_113",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Interruzione della comunicazione.",
+                    "strWidth": 434.765625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attendi.",
+                    "strWidth": 104.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 81,
+            "labelName": "SS_net_net_btl_114",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attendi che i preparativi vengano ultimati.",
+                    "strWidth": 547.28125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pulsante B: Annulla",
+                    "strWidth": 250.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 82,
+            "labelName": "SS_net_net_btl_115",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Annulla",
+                    "strWidth": 97.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 83,
+            "labelName": "SS_net_net_btl_116",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "L’altro giocatore propone di cambiare le regole",
+                    "strWidth": 617.921875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "della lotta.",
+                    "strWidth": 141.015625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Va bene?",
+                    "strWidth": 123.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 84,
+            "labelName": "SS_net_net_btl_117",
+            "styleInfo": {
+                "styleIndex": 43,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 85,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nuove regole:",
+                    "strWidth": 185.90625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 85,
+            "labelName": "SS_net_net_btl_118",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Preparativi ultimati!",
+                    "strWidth": 251.375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La lotta in link avrà inizio!",
+                    "strWidth": 333.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 86,
+            "labelName": "SS_net_net_btl_119",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Benvenut",
+                    "strWidth": 120.109375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " nel Colosseo!",
+                    "strWidth": 182.4375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se c’è qualcosa che non ti è chiaro, chiedi pure.",
+                    "strWidth": 621.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 87,
+            "labelName": "SS_net_net_btl_124",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un giocatore è uscito dal Colosseo.",
+                    "strWidth": 461.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La connessione verrà interrotta.",
+                    "strWidth": 407.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 88,
+            "labelName": "SS_net_net_btl_121",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nel Colosseo puoi lottare usando diversi",
+                    "strWidth": 526.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tipi di regole.",
+                    "strWidth": 175.375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La lotta ha inizio quando tutti i giocatori",
+                    "strWidth": 524.546875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "si sono posizionati nella loro postazione.",
+                    "strWidth": 526.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 89,
+            "labelName": "SS_net_net_btl_122",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le regole verranno cambiate.",
+                    "strWidth": 378.6875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Va bene?",
+                    "strWidth": 123.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 90,
+            "labelName": "SS_net_net_btl_123",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le regole della Lotta Multipla non possono",
+                    "strWidth": 560.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "essere cambiate in questo modo.",
+                    "strWidth": 426.375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per farlo, esci dal Colosseo e scegli di nuovo",
+                    "strWidth": 581.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "le regole.",
+                    "strWidth": 123.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 91,
+            "labelName": "SS_net_net_btl_125",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ricerca di un avversario in corso...",
+                    "strWidth": 440.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 92,
+            "labelName": "SS_net_net_btl_126",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La ricerca ha avuto successo!",
+                    "strWidth": 372.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La lotta in link sta per iniziare.",
+                    "strWidth": 391.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 93,
+            "labelName": "SS_net_net_btl_127",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Annulla",
+                    "strWidth": 97.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 94,
+            "labelName": "SS_net_net_btl_128",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Conferma",
+                    "strWidth": 126.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 95,
+            "labelName": "SS_net_net_btl_129",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Registra squadra",
+                    "strWidth": 214.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 96,
+            "labelName": "SS_net_net_btl_130",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Indietro",
+                    "strWidth": 101.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 97,
+            "labelName": "SS_net_net_btl_131",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Squadra non registrata.",
+                    "strWidth": 300.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 98,
+            "labelName": "SS_net_net_btl_132",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Va bene questa squadra?",
+                    "strWidth": 328.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 99,
+            "labelName": "SS_net_net_btl_133",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hai più Pokémon della stessa specie.",
+                    "strWidth": 478.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 100,
+            "labelName": "SS_net_net_btl_134",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non hai abbastanza Pokémon partecipanti.",
+                    "strWidth": 556.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 101,
+            "labelName": "SS_net_net_btl_135",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vanno bene queste regole?",
+                    "strWidth": 357.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 102,
+            "labelName": "SS_net_net_btl_136",
+            "styleInfo": {
+                "styleIndex": 35,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 210,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Avversario",
+                    "strWidth": 135.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 110,
+            "arrayIndex": 103,
+            "labelName": "SS_net_net_btl_137",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I Pokémon verranno mischiati!",
+                    "strWidth": 386.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 104,
+            "labelName": "SS_net_net_btl_141",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Uova non possono partecipare.",
+                    "strWidth": 445.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 105,
+            "labelName": "SS_net_net_btl_142",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "C’è almeno un Pokémon non ammesso.",
+                    "strWidth": 506.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 106,
+            "labelName": "SS_net_net_btl_143",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ci sono almeno due Pokémon con lo stesso",
+                    "strWidth": 562.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "strumento.",
+                    "strWidth": 136.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 107,
+            "labelName": "SS_net_net_btl_144",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "C’è un problema con almeno un Pokémon",
+                    "strWidth": 543.328125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "della tua Squadra Lotta.",
+                    "strWidth": 312.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 108,
+            "labelName": "SS_net_net_btl_145",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "C’è un problema con almeno uno dei Pokémon",
+                    "strWidth": 610.015625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "partecipanti.",
+                    "strWidth": 163.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 111,
+            "arrayIndex": 109,
+            "labelName": "SS_net_net_btl_138",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scelta squadra",
+                    "strWidth": 189.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 112,
+            "arrayIndex": 110,
+            "labelName": "SS_net_net_btl_139",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scelta regole",
+                    "strWidth": 169.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 113,
+            "arrayIndex": 111,
+            "labelName": "SS_net_net_btl_140",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Conferma",
+                    "strWidth": 126.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 115,
+            "arrayIndex": 112,
+            "labelName": "SS_net_net_btl_146",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Numero di Pokémon",
+                    "strWidth": 264.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 116,
+            "arrayIndex": 113,
+            "labelName": "SS_net_net_btl_147",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Livello dei Pokémon",
+                    "strWidth": 263.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 117,
+            "arrayIndex": 114,
+            "labelName": "SS_net_net_btl_148",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pokémon speciali",
+                    "strWidth": 225.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 118,
+            "arrayIndex": 115,
+            "labelName": "SS_net_net_btl_149",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pokémon uguali",
+                    "strWidth": 206.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 119,
+            "arrayIndex": 116,
+            "labelName": "SS_net_net_btl_150",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Strumenti uguali",
+                    "strWidth": 209.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 120,
+            "arrayIndex": 117,
+            "labelName": "SS_net_net_btl_151",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 121,
+            "arrayIndex": 118,
+            "labelName": "SS_net_net_btl_152",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Almeno al L. ",
+                    "strWidth": 171.296875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 122,
+            "arrayIndex": 119,
+            "labelName": "SS_net_net_btl_153",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "-",
+                    "strWidth": 11.203125
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 123,
+            "arrayIndex": 120,
+            "labelName": "SS_net_net_btl_154",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tutti al L. ",
+                    "strWidth": 132.375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 124,
+            "arrayIndex": 121,
+            "labelName": "SS_net_net_btl_155",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fino al L. ",
+                    "strWidth": 128.46875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 125,
+            "arrayIndex": 122,
+            "labelName": "SS_net_net_btl_156",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ammessi",
+                    "strWidth": 112.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 126,
+            "arrayIndex": 123,
+            "labelName": "SS_net_net_btl_157",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non ammessi",
+                    "strWidth": 170.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 127,
+            "arrayIndex": 124,
+            "labelName": "SS_net_net_btl_158",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ammessi",
+                    "strWidth": 112.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 128,
+            "arrayIndex": 125,
+            "labelName": "SS_net_net_btl_159",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non ammessi",
+                    "strWidth": 170.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 129,
+            "arrayIndex": 126,
+            "labelName": "SS_net_net_btl_160",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Senza restrizioni",
+                    "strWidth": 209.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 114,
+            "arrayIndex": 127,
+            "labelName": "SS_net_net_btl_161",
+            "styleInfo": {
+                "styleIndex": 7,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 540,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Regole",
+                    "strWidth": 90.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 128,
+            "labelName": "SS_net_net_btl_061",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Guarda le regole",
+                    "strWidth": 220.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 129,
+            "labelName": "SS_net_net_btl_162",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Annulla",
+                    "strWidth": 97.71875
+                }
+            ]
+        }
+    ]
+}

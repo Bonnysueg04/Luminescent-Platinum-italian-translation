@@ -1,0 +1,4428 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_dp_fld_areaname_display",
+    "hash": -1736513557,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "DP_fld_areaname_display_000",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Zona misteriosa",
+                    "strWidth": 203.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "DP_fld_areaname_display_001",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "SPG",
+                    "strWidth": 55.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "DP_fld_areaname_display_002",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Giubilopoli",
+                    "strWidth": 146.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "DP_fld_areaname_display_006",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Canalipoli",
+                    "strWidth": 131.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "DP_fld_areaname_display_008",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mineropoli",
+                    "strWidth": 141.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "DP_fld_areaname_display_010",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Evopoli",
+                    "strWidth": 96.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "DP_fld_areaname_display_014",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cuoripoli",
+                    "strWidth": 120.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "DP_fld_areaname_display_015",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pratopoli",
+                    "strWidth": 118.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "DP_fld_areaname_display_017",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Rupepoli",
+                    "strWidth": 116.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "DP_fld_areaname_display_020",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Arenipoli",
+                    "strWidth": 118.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "DP_fld_areaname_display_022",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nevepoli",
+                    "strWidth": 117.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "DP_fld_areaname_display_023",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lega Pokémon",
+                    "strWidth": 190.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "DP_fld_areaname_display_024",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Area Sfida",
+                    "strWidth": 135.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "DP_fld_areaname_display_025",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cava di Mineropoli",
+                    "strWidth": 248.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "DP_fld_areaname_display_026",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Impianto Turbine",
+                    "strWidth": 221.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "DP_fld_areaname_display_027",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Bosco di Evopoli",
+                    "strWidth": 216.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "DP_fld_areaname_display_028",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fonderie Fuego",
+                    "strWidth": 205.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "DP_fld_areaname_display_029",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Spazio Origine",
+                    "strWidth": 191.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "DP_fld_areaname_display_030",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vetta Lancia",
+                    "strWidth": 162.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "DP_fld_areaname_display_031",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Monte Corona",
+                    "strWidth": 188.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "DP_fld_areaname_display_032",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gran Palude",
+                    "strWidth": 160.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "DP_fld_areaname_display_033",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Rovine di Flemminia",
+                    "strWidth": 261.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 22,
+            "labelName": "DP_fld_areaname_display_034",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Via Vittoria",
+                    "strWidth": 149.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 23,
+            "labelName": "DP_fld_areaname_display_035",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Renegade Park",
+                    "strWidth": 178.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 24,
+            "labelName": "DP_fld_areaname_display_036",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Parco Concordia",
+                    "strWidth": 214.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 25,
+            "labelName": "DP_fld_areaname_display_037",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cammino Roccioso",
+                    "strWidth": 246.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "DP_fld_areaname_display_038",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Prato Fiorito",
+                    "strWidth": 162.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "DP_fld_areaname_display_039",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Varco di Mineropoli",
+                    "strWidth": 260.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "DP_fld_areaname_display_040",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Isola Lunapiena",
+                    "strWidth": 201.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 29,
+            "labelName": "DP_fld_areaname_display_041",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Monte Ostile",
+                    "strWidth": 170.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 30,
+            "labelName": "DP_fld_areaname_display_042",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grotta Ritorno",
+                    "strWidth": 189.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 31,
+            "labelName": "DP_fld_areaname_display_043",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fonte Saluto",
+                    "strWidth": 164.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 32,
+            "labelName": "DP_fld_areaname_display_044",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Paradiso Fiore",
+                    "strWidth": 185.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 33,
+            "labelName": "DP_fld_areaname_display_045",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tempio di Nevepoli",
+                    "strWidth": 257.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 34,
+            "labelName": "DP_fld_areaname_display_046",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grotta Labirinto",
+                    "strWidth": 209.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 35,
+            "labelName": "DP_fld_areaname_display_047",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grotta Rovine",
+                    "strWidth": 182.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 36,
+            "labelName": "DP_fld_areaname_display_048",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tunnel Rovine",
+                    "strWidth": 184.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 37,
+            "labelName": "DP_fld_areaname_display_049",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Giardino Trofeo",
+                    "strWidth": 209.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 38,
+            "labelName": "DP_fld_areaname_display_050",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Isola Ferrosa",
+                    "strWidth": 164.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 39,
+            "labelName": "DP_fld_areaname_display_051",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antico Château",
+                    "strWidth": 201.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 40,
+            "labelName": "DP_fld_areaname_display_052",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Covo del Team Galassia",
+                    "strWidth": 314.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 41,
+            "labelName": "DP_fld_areaname_display_053",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grotta Verità",
+                    "strWidth": 172.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 42,
+            "labelName": "DP_fld_areaname_display_054",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lago Verità",
+                    "strWidth": 150.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 43,
+            "labelName": "DP_fld_areaname_display_055",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grotta Valore",
+                    "strWidth": 180.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 44,
+            "labelName": "DP_fld_areaname_display_056",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lago Valore",
+                    "strWidth": 158.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 45,
+            "labelName": "DP_fld_areaname_display_057",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grotta Arguzia",
+                    "strWidth": 191.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 46,
+            "labelName": "DP_fld_areaname_display_058",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lago Arguzia",
+                    "strWidth": 169.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 47,
+            "labelName": "DP_fld_areaname_display_059",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Isola Lunanuova",
+                    "strWidth": 207.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 48,
+            "labelName": "DP_fld_areaname_display_060",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Giardino Lotta",
+                    "strWidth": 189.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 49,
+            "labelName": "DP_fld_areaname_display_062",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riva del Lago Verità",
+                    "strWidth": 263.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 50,
+            "labelName": "DP_fld_areaname_display_063",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riva del Lago Valore",
+                    "strWidth": 271.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 51,
+            "labelName": "DP_fld_areaname_display_066",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Riva del Lago Arguzia",
+                    "strWidth": 282.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 52,
+            "labelName": "DP_fld_areaname_display_067",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sentiero Fonte",
+                    "strWidth": 191.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 53,
+            "labelName": "DP_fld_areaname_display_068",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 201",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 54,
+            "labelName": "DP_fld_areaname_display_069",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 202",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 55,
+            "labelName": "DP_fld_areaname_display_070",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 203",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 56,
+            "labelName": "DP_fld_areaname_display_071",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 204",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 57,
+            "labelName": "DP_fld_areaname_display_072",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 205",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 58,
+            "labelName": "DP_fld_areaname_display_073",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 206",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 59,
+            "labelName": "DP_fld_areaname_display_074",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 207",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 60,
+            "labelName": "DP_fld_areaname_display_075",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 208",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 61,
+            "labelName": "DP_fld_areaname_display_076",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 209",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 62,
+            "labelName": "DP_fld_areaname_display_077",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 210",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 63,
+            "labelName": "DP_fld_areaname_display_079",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 211",
+                    "strWidth": 165.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 64,
+            "labelName": "DP_fld_areaname_display_080",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 212",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 65,
+            "labelName": "DP_fld_areaname_display_082",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 213",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 66,
+            "labelName": "DP_fld_areaname_display_084",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 214",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 67,
+            "labelName": "DP_fld_areaname_display_085",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 215",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 68,
+            "labelName": "DP_fld_areaname_display_086",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 216",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 69,
+            "labelName": "DP_fld_areaname_display_087",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 217",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 70,
+            "labelName": "DP_fld_areaname_display_088",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 218",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 71,
+            "labelName": "DP_fld_areaname_display_089",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 219",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 72,
+            "labelName": "DP_fld_areaname_display_090",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 221",
+                    "strWidth": 169.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 73,
+            "labelName": "DP_fld_areaname_display_091",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 222",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 74,
+            "labelName": "DP_fld_areaname_display_092",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 224",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 75,
+            "labelName": "DP_fld_areaname_display_093",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 225",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 76,
+            "labelName": "DP_fld_areaname_display_094",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 227",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 77,
+            "labelName": "DP_fld_areaname_display_095",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 228",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 78,
+            "labelName": "DP_fld_areaname_display_096",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 229",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 79,
+            "labelName": "DP_fld_areaname_display_097",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Duefoglie",
+                    "strWidth": 128.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 80,
+            "labelName": "DP_fld_areaname_display_098",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sabbiafine",
+                    "strWidth": 137.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 81,
+            "labelName": "DP_fld_areaname_display_100",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Giardinfiorito",
+                    "strWidth": 175.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 82,
+            "labelName": "DP_fld_areaname_display_102",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Flemminia",
+                    "strWidth": 131.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 83,
+            "labelName": "DP_fld_areaname_display_103",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Memoride",
+                    "strWidth": 132.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 84,
+            "labelName": "DP_fld_areaname_display_104",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Area Provviste",
+                    "strWidth": 186.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 85,
+            "labelName": "DP_fld_areaname_display_105",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Area Svago",
+                    "strWidth": 147.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 86,
+            "labelName": "DP_fld_areaname_display_106",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 220",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 87,
+            "labelName": "DP_fld_areaname_display_107",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 223",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 88,
+            "labelName": "DP_fld_areaname_display_108",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 226",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 89,
+            "labelName": "DP_fld_areaname_display_109",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Percorso 230",
+                    "strWidth": 173.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 90,
+            "labelName": "DP_fld_areaname_display_110",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Via Frangimare",
+                    "strWidth": 195.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 91,
+            "labelName": "DP_fld_areaname_display_119",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grandi Sotterranei",
+                    "strWidth": 239.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 92,
+            "labelName": "DP_fld_areaname_display_120",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Zona ovest",
+                    "strWidth": 143.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 93,
+            "labelName": "DP_fld_areaname_display_121",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Zona est",
+                    "strWidth": 112.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 94,
+            "labelName": "DP_fld_areaname_display_122",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Zona sudovest",
+                    "strWidth": 188.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 95,
+            "labelName": "DP_fld_areaname_display_123",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Zona centrale",
+                    "strWidth": 179.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 96,
+            "labelName": "DP_fld_areaname_display_124",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Zona nordovest",
+                    "strWidth": 203.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 97,
+            "labelName": "DP_fld_areaname_display_125",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Zona sudest",
+                    "strWidth": 156.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 98,
+            "labelName": "DP_fld_areaname_display_126",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Zona nordest",
+                    "strWidth": 172.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 99,
+            "labelName": "DP_fld_areaname_display_127",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Punto di riferimento",
+                    "strWidth": 258.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 100,
+            "labelName": "DP_fld_areaname_display_128",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro semplice",
+                    "strWidth": 194.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 101,
+            "labelName": "DP_fld_areaname_display_129",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro spazioso",
+                    "strWidth": 191.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 102,
+            "labelName": "DP_fld_areaname_display_130",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro dell’erba alta",
+                    "strWidth": 254.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 103,
+            "labelName": "DP_fld_areaname_display_131",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro della prateria",
+                    "strWidth": 254.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 104,
+            "labelName": "DP_fld_areaname_display_132",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro delle acque",
+                    "strWidth": 232.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 105,
+            "labelName": "DP_fld_areaname_display_133",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro delle falde acquifere",
+                    "strWidth": 350.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 106,
+            "labelName": "DP_fld_areaname_display_134",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro delle sabbie",
+                    "strWidth": 239.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 107,
+            "labelName": "DP_fld_areaname_display_135",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro delle rocce",
+                    "strWidth": 225.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 108,
+            "labelName": "DP_fld_areaname_display_136",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro del fuoco",
+                    "strWidth": 204.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 109,
+            "labelName": "DP_fld_areaname_display_137",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro della lava",
+                    "strWidth": 206.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 110,
+            "arrayIndex": 110,
+            "labelName": "DP_fld_areaname_display_138",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro del pantano",
+                    "strWidth": 237.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 111,
+            "arrayIndex": 111,
+            "labelName": "DP_fld_areaname_display_139",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro dell’acquitrino",
+                    "strWidth": 268.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 112,
+            "arrayIndex": 112,
+            "labelName": "DP_fld_areaname_display_140",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro dei luccichii",
+                    "strWidth": 234.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 113,
+            "arrayIndex": 113,
+            "labelName": "DP_fld_areaname_display_141",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro dei bagliori",
+                    "strWidth": 229.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 114,
+            "arrayIndex": 114,
+            "labelName": "DP_fld_areaname_display_142",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro delle nevi",
+                    "strWidth": 207.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 115,
+            "arrayIndex": 115,
+            "labelName": "DP_fld_areaname_display_143",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro della tormenta",
+                    "strWidth": 270.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 116,
+            "arrayIndex": 116,
+            "labelName": "DP_fld_areaname_display_144",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro del gelo",
+                    "strWidth": 188.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 117,
+            "arrayIndex": 117,
+            "labelName": "DP_fld_areaname_display_145",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro delle stalattiti",
+                    "strWidth": 259.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 118,
+            "arrayIndex": 118,
+            "labelName": "DP_fld_areaname_display_146",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro della riva",
+                    "strWidth": 200.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 119,
+            "arrayIndex": 119,
+            "labelName": "DP_fld_areaname_display_147",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Antro delle sabbie ardenti",
+                    "strWidth": 339.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 120,
+            "arrayIndex": 120,
+            "labelName": "DP_fld_areaname_display_148",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Caverna del lago",
+                    "strWidth": 220.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 121,
+            "arrayIndex": 121,
+            "labelName": "DP_fld_areaname_display_149",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Caverna del sole",
+                    "strWidth": 216.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 122,
+            "arrayIndex": 122,
+            "labelName": "DP_fld_areaname_display_150",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Caverna della rupe",
+                    "strWidth": 246.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 123,
+            "arrayIndex": 123,
+            "labelName": "DP_fld_areaname_display_151",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Caverna delle stelle",
+                    "strWidth": 257.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 124,
+            "arrayIndex": 124,
+            "labelName": "DP_fld_areaname_display_152",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Caverna del ghiacciaio",
+                    "strWidth": 294.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 125,
+            "arrayIndex": 125,
+            "labelName": "DP_fld_areaname_display_153",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Caverna della palude",
+                    "strWidth": 276.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 126,
+            "arrayIndex": 126,
+            "labelName": "DP_fld_areaname_display_154",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Caverna Typhlosion",
+                    "strWidth": 255.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 127,
+            "arrayIndex": 127,
+            "labelName": "DP_fld_areaname_display_155",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Entrata",
+                    "strWidth": 91.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 128,
+            "arrayIndex": 128,
+            "labelName": "DP_fld_areaname_display_156",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza di Kanto",
+                    "strWidth": 204.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 129,
+            "arrayIndex": 129,
+            "labelName": "DP_fld_areaname_display_157",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza di Johto",
+                    "strWidth": 199.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 130,
+            "arrayIndex": 130,
+            "labelName": "DP_fld_areaname_display_158",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza del cuore",
+                    "strWidth": 215.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 131,
+            "arrayIndex": 131,
+            "labelName": "DP_fld_areaname_display_159",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza arcobaleno",
+                    "strWidth": 238.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 132,
+            "arrayIndex": 132,
+            "labelName": "DP_fld_areaname_display_160",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza dei venti",
+                    "strWidth": 206.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 133,
+            "arrayIndex": 133,
+            "labelName": "DP_fld_areaname_display_161",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza dei mari",
+                    "strWidth": 198.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 134,
+            "arrayIndex": 134,
+            "labelName": "DP_fld_areaname_display_162",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza delle terre",
+                    "strWidth": 228.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 135,
+            "arrayIndex": 135,
+            "labelName": "DP_fld_areaname_display_163",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza dei cieli",
+                    "strWidth": 195.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 136,
+            "arrayIndex": 136,
+            "labelName": "DP_fld_areaname_display_164",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza del gene",
+                    "strWidth": 206.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 137,
+            "arrayIndex": 137,
+            "labelName": "DP_fld_areaname_display_165",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza degli esordi",
+                    "strWidth": 246.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 138,
+            "arrayIndex": 138,
+            "labelName": "DP_fld_areaname_display_166",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Stanza distorta",
+                    "strWidth": 191.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 139,
+            "arrayIndex": 139,
+            "labelName": "DP_fld_areaname_display_167",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Spazio terso",
+                    "strWidth": 158.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 140,
+            "arrayIndex": 140,
+            "labelName": "DP_fld_areaname_display_168",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Spazio arcano",
+                    "strWidth": 181.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 141,
+            "arrayIndex": 141,
+            "labelName": "DP_fld_areaname_display_169",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Base Segreta",
+                    "strWidth": 167.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 142,
+            "arrayIndex": 142,
+            "labelName": "DP_fld_areaname_display_170",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Trainers’ School",
+                    "strWidth": 149.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 143,
+            "arrayIndex": 143,
+            "labelName": "DP_fld_areaname_display_171",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mining Museum",
+                    "strWidth": 149.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 144,
+            "arrayIndex": 144,
+            "labelName": "DP_fld_areaname_display_172",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "T.G. Eterna Bldg",
+                    "strWidth": 149.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 145,
+            "arrayIndex": 145,
+            "labelName": "DP_fld_areaname_display_173",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cycle Shop",
+                    "strWidth": 149.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 146,
+            "arrayIndex": 146,
+            "labelName": "DP_fld_areaname_display_174",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lost Tower",
+                    "strWidth": 149.8125
+                }
+            ]
+        }
+    ]
+}

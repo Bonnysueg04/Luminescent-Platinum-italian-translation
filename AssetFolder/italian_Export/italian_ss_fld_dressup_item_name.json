@@ -1,0 +1,468 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_fld_dressup_item_name",
+    "hash": -1534725200,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_fld_dressup_item_name_000",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Parte superiore",
+                    "strWidth": 196.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_fld_dressup_item_name_001",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Giacche e felpe",
+                    "strWidth": 205.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_fld_dressup_item_name_930",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look con felpa di Pikachu",
+                    "strWidth": 335.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "SS_fld_dressup_item_name_931",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look Platino",
+                    "strWidth": 162.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "SS_fld_dressup_item_name_932",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look con salopette",
+                    "strWidth": 249.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "SS_fld_dressup_item_name_933",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look con bomber di Eevee",
+                    "strWidth": 348.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 6,
+            "labelName": "SS_fld_dressup_item_name_934",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look cibernetico",
+                    "strWidth": 217.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 7,
+            "labelName": "SS_fld_dressup_item_name_935",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look estivo",
+                    "strWidth": 149.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 8,
+            "labelName": "SS_fld_dressup_item_name_936",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look invernale",
+                    "strWidth": 190.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 9,
+            "labelName": "SS_fld_dressup_item_name_937",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look primaverile",
+                    "strWidth": 216.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 10,
+            "labelName": "SS_fld_dressup_item_name_938",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look sportivo",
+                    "strWidth": 177.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 11,
+            "labelName": "SS_fld_dressup_item_name_939",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look con giacca biker",
+                    "strWidth": 284.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 12,
+            "labelName": "SS_fld_dressup_item_name_940",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look da Gara",
+                    "strWidth": 177.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 13,
+            "labelName": "SS_fld_dressup_item_name_941",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look con bomber di Gengar",
+                    "strWidth": 366.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "SS_fld_dressup_item_name_942",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Look classico",
+                    "strWidth": 171.546875
+                }
+            ]
+        }
+    ]
+}

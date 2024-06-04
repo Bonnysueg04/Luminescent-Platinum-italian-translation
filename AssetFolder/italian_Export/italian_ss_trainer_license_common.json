@@ -1,0 +1,1837 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_trainer_license_common",
+    "hash": 1659903046,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_trainer_license_common_02",
+            "styleInfo": {
+                "styleIndex": 81,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_trainer_license_common_04",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pokédex",
+                    "strWidth": 111.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_trainer_license_common_07",
+            "styleInfo": {
+                "styleIndex": 81,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "SS_trainer_license_common_09",
+            "styleInfo": {
+                "styleIndex": 173,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 2,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 3,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "/",
+                    "strWidth": 12.796875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "/",
+                    "strWidth": 12.796875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 2,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "SS_trainer_license_common_10",
+            "styleInfo": {
+                "styleIndex": 171,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ID",
+                    "strWidth": 30.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "SS_trainer_license_common_11",
+            "styleInfo": {
+                "styleIndex": 169,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 5,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 8,
+            "labelName": "SS_trainer_license_common_32",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nome",
+                    "strWidth": 77.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 9,
+            "labelName": "SS_trainer_license_common_33",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Soldi",
+                    "strWidth": 65.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 10,
+            "labelName": "SS_trainer_license_common_34",
+            "styleInfo": {
+                "styleIndex": 172,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 6,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ",
+                    "strWidth": 29.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 11,
+            "labelName": "SS_trainer_license_common_35",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tempo di gioco",
+                    "strWidth": 204.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 12,
+            "labelName": "SS_trainer_license_common_36",
+            "styleInfo": {
+                "styleIndex": 169,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ":",
+                    "strWidth": 10.109375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 13,
+            "labelName": "SS_trainer_license_common_37",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Inizio dell’avventura",
+                    "strWidth": 261.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 14,
+            "labelName": "SS_trainer_license_common_38",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Primo ingresso nella Sala d’Onore",
+                    "strWidth": 438.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 15,
+            "labelName": "SS_trainer_license_common_39",
+            "styleInfo": {
+                "styleIndex": 94,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 544,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ricerche di tesori effettuate",
+                    "strWidth": 361.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 16,
+            "labelName": "SS_trainer_license_common_40",
+            "styleInfo": {
+                "styleIndex": 169,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 17,
+            "labelName": "SS_trainer_license_common_41",
+            "styleInfo": {
+                "styleIndex": 94,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 544,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tipi di statue trovati",
+                    "strWidth": 262.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 18,
+            "labelName": "SS_trainer_license_common_42",
+            "styleInfo": {
+                "styleIndex": 169,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 19,
+            "labelName": "SS_trainer_license_common_63",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Livello Gare",
+                    "strWidth": 158.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 20,
+            "labelName": "SS_trainer_license_common_43",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gara di Classe",
+                    "strWidth": 188.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 21,
+            "labelName": "SS_trainer_license_common_44",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gara di Bellezza",
+                    "strWidth": 211.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 22,
+            "labelName": "SS_trainer_license_common_45",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gara di Grazia",
+                    "strWidth": 190.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 23,
+            "labelName": "SS_trainer_license_common_46",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gara di Acume",
+                    "strWidth": 194.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 24,
+            "labelName": "SS_trainer_license_common_47",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gara di Grinta",
+                    "strWidth": 187.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 25,
+            "labelName": "SS_trainer_license_common_48",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Normale",
+                    "strWidth": 110.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 26,
+            "labelName": "SS_trainer_license_common_49",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mega",
+                    "strWidth": 73.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 27,
+            "labelName": "SS_trainer_license_common_50",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ultra",
+                    "strWidth": 64.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 28,
+            "labelName": "SS_trainer_license_common_51",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Master",
+                    "strWidth": 88.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 29,
+            "labelName": "SS_trainer_license_common_52",
+            "styleInfo": {
+                "styleIndex": 94,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 544,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Poffin preparati",
+                    "strWidth": 202.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 30,
+            "labelName": "SS_trainer_license_common_53",
+            "styleInfo": {
+                "styleIndex": 169,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 31,
+            "labelName": "SS_trainer_license_common_54",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vittorie consecutive alla Torre Lotta",
+                    "strWidth": 467.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 32,
+            "labelName": "SS_trainer_license_common_55",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotte in Singolo",
+                    "strWidth": 205.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 33,
+            "labelName": "SS_trainer_license_common_56",
+            "styleInfo": {
+                "styleIndex": 169,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 3,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 34,
+            "labelName": "SS_trainer_license_common_57",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotte in Doppio",
+                    "strWidth": 207.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 35,
+            "labelName": "SS_trainer_license_common_58",
+            "styleInfo": {
+                "styleIndex": 169,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 3,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 36,
+            "labelName": "SS_trainer_license_common_59",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotte in Singolo di Classe Master",
+                    "strWidth": 427.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 37,
+            "labelName": "SS_trainer_license_common_60",
+            "styleInfo": {
+                "styleIndex": 169,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 3,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 38,
+            "labelName": "SS_trainer_license_common_61",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotte in Doppio di Classe Master",
+                    "strWidth": 428.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 39,
+            "labelName": "SS_trainer_license_common_62",
+            "styleInfo": {
+                "styleIndex": 169,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 224,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 3,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 40,
+            "labelName": "SS_trainer_license_common_66",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vedi retro",
+                    "strWidth": 132.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 41,
+            "labelName": "SS_trainer_license_common_67",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vedi Medaglie",
+                    "strWidth": 191.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 42,
+            "labelName": "SS_trainer_license_common_68",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vedi scheda",
+                    "strWidth": 159.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 43,
+            "labelName": "SS_trainer_license_common_69",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Apri teca",
+                    "strWidth": 118.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 44,
+            "labelName": "SS_trainer_license_common_70",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Chiudi teca",
+                    "strWidth": 147.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 45,
+            "labelName": "SS_trainer_license_common_71",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lucida le Medaglie",
+                    "strWidth": 247.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 46,
+            "labelName": "SS_trainer_license_common_72",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tocca le Medaglie",
+                    "strWidth": 240.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 47,
+            "labelName": "SS_trainer_license_common_73",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cambia modalità",
+                    "strWidth": 220.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 48,
+            "labelName": "SS_trainer_license_common_74",
+            "styleInfo": {
+                "styleIndex": 80,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 192,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Tocca",
+                    "strWidth": 77.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 49,
+            "labelName": "SS_trainer_license_common_75",
+            "styleInfo": {
+                "styleIndex": 80,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 192,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lucida",
+                    "strWidth": 84.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 50,
+            "labelName": "SS_trainer_license_common_64",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ok",
+                    "strWidth": 39.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 51,
+            "labelName": "SS_trainer_license_common_65",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Indietro",
+                    "strWidth": 101.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 52,
+            "labelName": "SS_trainer_license_common_76",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vedi fronte",
+                    "strWidth": 147.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 53,
+            "labelName": "SS_trainer_license_common_77",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ruota",
+                    "strWidth": 75.703125
+                }
+            ]
+        }
+    ]
+}

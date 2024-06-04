@@ -1,0 +1,3747 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_tips",
+    "hash": -239824371,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_tips_002",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Chiudi",
+                    "strWidth": 83.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_tips_003",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Avanti",
+                    "strWidth": 82.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_tips_004",
+            "styleInfo": {
+                "styleIndex": 168,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 192,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "/",
+                    "strWidth": 12.796875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "SS_tips_005",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Guida Avventura",
+                    "strWidth": 218.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "SS_tips_007",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Premi il ",
+                    "strWidth": 104.96875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "pulsante X",
+                    "strWidth": 137.96875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " per aprire il menu!",
+                    "strWidth": 245.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se selezioni ",
+                    "strWidth": 160.984375
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Salva",
+                    "strWidth": 67.90625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ", potrai salvare i tuoi progressi",
+                    "strWidth": 393.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di gioco!",
+                    "strWidth": 112.890625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scegliendo ",
+                    "strWidth": 151.609375
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mappa città",
+                    "strWidth": 156.703125
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ", invece, potrai controllare la tua",
+                    "strWidth": 425.21875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "posizione o quella della tua prossima destinazione.",
+                    "strWidth": 660.046875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puoi consultare la Guida Avventura in qualsiasi",
+                    "strWidth": 606.4375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "momento. La trovi nella Borsa, tra gli strumenti base.",
+                    "strWidth": 682.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "SS_tips_009",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Funzioni Y-Comm",
+                    "strWidth": 230.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "SS_tips_010",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Funzioni Y-Comm ti permettono di comunicare",
+                    "strWidth": 646.203125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "con altri giocatori. Puoi lottare, fare degli scambi",
+                    "strWidth": 635.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di Pokémon e tanto altro.",
+                    "strWidth": 331.1875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scopri nuovi modi di divertirti!",
+                    "strWidth": 392.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "SS_tips_012",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Normalmente le Funzioni Y-Comm ti permettono",
+                    "strWidth": 632.5
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di comunicare con giocatori che si trovano nelle",
+                    "strWidth": 621.09375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "vicinanze, ma se premi il pulsante + potrai connetterti",
+                    "strWidth": 694.703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "con giocatori di tutto il mondo tramite Internet!",
+                    "strWidth": 614.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "SS_tips_013",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se durante la tua avventura vedi comparire uno sticker",
+                    "strWidth": 705.859375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sullo schermo, significa che c’è un altro giocatore",
+                    "strWidth": 639.390625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nelle vicinanze che sta cercando qualcuno con cui",
+                    "strWidth": 645.71875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "connettersi!",
+                    "strWidth": 150.34375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Premi il pulsante Y per vedere chi è disponibile!",
+                    "strWidth": 620.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "SS_tips_014",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Seleziona uno sticker con la silhouette di un Pokémon",
+                    "strWidth": 697.828125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e potrai affrontare dei Pokémon insieme",
+                    "strWidth": 522.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ad altri Allenatori!",
+                    "strWidth": 234.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "SS_tips_015",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Card della Lega Pokémon",
+                    "strWidth": 334.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "SS_tips_016",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Rendi speciale il tuo profilo con la Card della Lega",
+                    "strWidth": 660.78125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pokémon! Personalizza la tua card tramite",
+                    "strWidth": 540.03125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "il CreaCard che trovi in tutti i Centri Pokémon",
+                    "strWidth": 595.375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e aggiornala con le informazioni più recenti.",
+                    "strWidth": 570.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "SS_tips_017",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ogni Allenatore ha delle Card della Lega Pokémon",
+                    "strWidth": 664.171875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che può scambiare con gli altri tramite le funzioni",
+                    "strWidth": 639.78125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di comunicazione.",
+                    "strWidth": 232.65625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puoi vedere le card che hai ottenuto aprendo il",
+                    "strWidth": 614.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "menu principale con il pulsante X e accedendo",
+                    "strWidth": 608.28125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al tuo album in \"Card della Lega Pokémon\".",
+                    "strWidth": 566.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "SS_tips_019",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lo Stadio Lotta",
+                    "strWidth": 199.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "SS_tips_020",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Allo Stadio Lotta puoi divertirti a lottare in link con",
+                    "strWidth": 665.3125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Allenatori di tutto il mondo e partecipare a varie gare.",
+                    "strWidth": 704.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "SS_tips_021",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La modalità Lotta Amichevole ti permette",
+                    "strWidth": 540.546875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "di affrontare altri Allenatori senza preoccuparti",
+                    "strWidth": 608.59375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dell’esito delle sfide. Chissà, potresti vedere",
+                    "strWidth": 576.890625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pokémon particolari o mosse inconsuete!",
+                    "strWidth": 527.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "SS_tips_022",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La modalità Lotta Competitiva ti permette di",
+                    "strWidth": 581.203125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "affrontare altri giocatori seriamente per migliorare",
+                    "strWidth": 649.453125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "il tuo grado.",
+                    "strWidth": 159.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il grado indica quanto forte è la tua squadra e può",
+                    "strWidth": 657.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "aumentare o diminuire in base ai risultati delle lotte.",
+                    "strWidth": 677.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "SS_tips_023",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Gare Online sono una modalità di lotta in cui",
+                    "strWidth": 626.734375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ci si affronta per un periodo di tempo prestabilito",
+                    "strWidth": 643.953125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per ottenere il punteggio più alto.",
+                    "strWidth": 442.203125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "A differenza delle altre modalità, per partecipare a una",
+                    "strWidth": 717.546875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "gara devi cercarne una e iscriverti autonomamente.",
+                    "strWidth": 660.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "SS_tips_024",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il fenomeno Dynamax",
+                    "strWidth": 283.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "SS_tips_025",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I Pokémon di Galar possono diventare giganteschi",
+                    "strWidth": 650.6875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "in determinati luoghi. Questo fenomeno prende",
+                    "strWidth": 618.375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "il nome di \"Dynamax\".",
+                    "strWidth": 286.84375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quando il Polsino Dynamax brilla, seleziona",
+                    "strWidth": 571.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "l’",
+                    "strWidth": 16.609375
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "icona \"Dynamax\"",
+                    "strWidth": 219.484375
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " per far dynamaxizzare",
+                    "strWidth": 293.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "il tuo Pokémon.",
+                    "strWidth": 203.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "SS_tips_026",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un Pokémon Dynamax può restare tale per ",
+                    "strWidth": 567.203125
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tre turni",
+                    "strWidth": 102.8125
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ",",
+                    "strWidth": 8.828125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "durante i quali può sferrare mosse potentissime chiamate",
+                    "strWidth": 737.0625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "mosse Dynamax",
+                    "strWidth": 207.390625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ". Queste mosse hanno effetti particolari",
+                    "strWidth": 513.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che variano a seconda del tipo.",
+                    "strWidth": 406.578125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Attiva il fenomeno Dynamax al momento giusto",
+                    "strWidth": 616.875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e la vittoria sarà tua!",
+                    "strWidth": 265.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "SS_tips_027",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Pokécampeggio",
+                    "strWidth": 231.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 22,
+            "labelName": "SS_tips_028",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nel Pokécampeggio puoi rafforzare l’amicizia",
+                    "strWidth": 589.1875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "con i tuoi Pokémon giocando o cucinando con loro!",
+                    "strWidth": 668.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Inoltre, così facendo li motiverai a impegnarsi",
+                    "strWidth": 590.890625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ancora di più durante la lotta!",
+                    "strWidth": 385.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 23,
+            "labelName": "SS_tips_029",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puoi giocare anche con i controller Joy-Con!",
+                    "strWidth": 575.515625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Scollegali e agitali per lanciare la palla o scuotere",
+                    "strWidth": 647.640625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "il Pokégingillo!",
+                    "strWidth": 191.4375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se scuoterai il Pokégingillo come si deve potrai",
+                    "strWidth": 613.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "attirare l’attenzione dei Pokémon!",
+                    "strWidth": 440.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 24,
+            "labelName": "SS_tips_030",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quando ti accampi nelle Terre Selvagge puoi giocare",
+                    "strWidth": 691.515625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "con un massimo di altri tre Allenatori.",
+                    "strWidth": 484.265625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Al campeggio potrebbero farti visita persone",
+                    "strWidth": 582.578125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "o Pokémon che non hai mai incontrato...",
+                    "strWidth": 522.578125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Preparati a stringere nuove amicizie!",
+                    "strWidth": 468.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 25,
+            "labelName": "SS_tips_031",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cucinare",
+                    "strWidth": 113.890625
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "SS_tips_032",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Prepara piatti deliziosi usando le bacche e i tuoi",
+                    "strWidth": 624.328125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ingredienti preferiti!",
+                    "strWidth": 258.5625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se userai ingredienti di prima scelta o aggiungerai",
+                    "strWidth": 647.140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "molte bacche otterrai piatti particolarmente gustosi.",
+                    "strWidth": 673.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "SS_tips_033",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mentre stai cucinando, attizza il fuoco con il ventaglio",
+                    "strWidth": 703.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e mescola gli ingredienti in pentola con il mestolo",
+                    "strWidth": 647.09375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "facendo attenzione a non farli fuoriuscire.",
+                    "strWidth": 540.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Infine, aggiungi tutto il tuo amore per i Pokémon",
+                    "strWidth": 633.328125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "con il giusto tempismo e il gioco è fatto!",
+                    "strWidth": 523.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "SS_tips_034",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un piatto appena preparato va condiviso!",
+                    "strWidth": 540.484375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mangiare insieme ha un sacco di benefici: ad esempio",
+                    "strWidth": 701.296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "può rimettere in forze i Pokémon che partecipano al",
+                    "strWidth": 676.6875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "campeggio o rafforzare i rapporti d’amicizia",
+                    "strWidth": 568.859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che hai con loro.",
+                    "strWidth": 216.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 29,
+            "labelName": "SS_tips_036",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le tane di Pokémon",
+                    "strWidth": 258.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 30,
+            "labelName": "SS_tips_037",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nelle Terre Selvagge ci sono dei punti dai quali",
+                    "strWidth": 617.421875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "si innalza una colonna di luce rossa: quelle sono",
+                    "strWidth": 622.8125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tane di Pokémon.",
+                    "strWidth": 226.703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se le esamini, potrai affrontare i Pokémon Dynamax",
+                    "strWidth": 673.328125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che si nascondono al loro interno, da sol",
+                    "strWidth": 525.859375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " o insieme",
+                    "strWidth": 131.46875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ad altri tre Allenatori!",
+                    "strWidth": 278.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 31,
+            "labelName": "SS_tips_040",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I Raid Dynamax",
+                    "strWidth": 203.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 32,
+            "labelName": "SS_tips_041",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se riesci a sconfiggere un Pokémon Dynamax",
+                    "strWidth": 585.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "avrai l’opportunità di catturarlo.",
+                    "strWidth": 414.453125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Potresti anche ottenere strumenti rari che non si",
+                    "strWidth": 619.625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "trovano altrove.",
+                    "strWidth": 205.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 33,
+            "labelName": "SS_tips_042",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I Pokémon Dynamax sono incredibilmente forti",
+                    "strWidth": 607.484375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e agiscono in modo particolare, ad esempio",
+                    "strWidth": 569.21875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sferrando raffiche di mosse.",
+                    "strWidth": 357.15625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "È importante che tutti e quattro gli Allenatori",
+                    "strWidth": 586.3125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "coinvolti collaborino per sconfiggerli!",
+                    "strWidth": 482.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 34,
+            "labelName": "SS_tips_043",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Volotaxi",
+                    "strWidth": 134.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 35,
+            "labelName": "SS_tips_044",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 21,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grazie al Volotaxi avrai la possibilità di andare",
+                    "strWidth": 607.8125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "in un battibaleno in qualsiasi posto di Galar,",
+                    "strWidth": 575.203125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "trasportat",
+                    "strWidth": 125.96875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " da un Corviknight!",
+                    "strWidth": 245.578125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Apri il menu e seleziona \"Mappa città\" per",
+                    "strWidth": 548.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "approfittare di questo comodissimo servizio!",
+                    "strWidth": 572.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 36,
+            "labelName": "SS_tips_046",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I Box del PC",
+                    "strWidth": 160.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 37,
+            "labelName": "SS_tips_047",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puoi depositare i tuoi Pokémon nei Box dei PC",
+                    "strWidth": 606.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "presenti in ogni Centro Pokémon.",
+                    "strWidth": 434.234375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puoi ritirare i Pokémon depositati da qualsiasi PC.",
+                    "strWidth": 646.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 38,
+            "labelName": "SS_tips_053",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Il Poké Job",
+                    "strWidth": 144.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 39,
+            "labelName": "SS_tips_054",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "A Galar l’aiuto dei Pokémon è molto richiesto.",
+                    "strWidth": 602.84375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Invia i tuoi Pokémon per aiutare le aziende e gli",
+                    "strWidth": 621.03125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "esercizi commerciali che ne hanno bisogno,",
+                    "strWidth": 560.609375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e quando torneranno saranno un po’ più forti!",
+                    "strWidth": 592.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 40,
+            "labelName": "SS_tips_055",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le offerte di lavoro vengono aggiornate una volta",
+                    "strWidth": 647.484375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al giorno. Più richieste accetti e più Pokémon invii,",
+                    "strWidth": 655.34375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "più vantaggi avrai, perciò cerca di renderti utile",
+                    "strWidth": 616.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "alla gente di Galar!",
+                    "strWidth": 249.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 41,
+            "labelName": "SS_tips_058",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Sfida delle Palestre",
+                    "strWidth": 288.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 42,
+            "labelName": "SS_tips_059",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Sfida delle Palestre consiste nell’affrontare",
+                    "strWidth": 593.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "le otto Palestre di Galar per ottenere le Medaglie.",
+                    "strWidth": 653.296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Medaglie si ottengono completando le missioni",
+                    "strWidth": 654.296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e sconfiggendo i Capipalestra.",
+                    "strWidth": 394.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 43,
+            "labelName": "SS_tips_060",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Gare in Diretta",
+                    "strWidth": 235.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 44,
+            "labelName": "SS_tips_061",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Con la modalità Gara in Diretta potrai partecipare",
+                    "strWidth": 652.421875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a una gara insieme ad altri giocatori.",
+                    "strWidth": 472.734375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puoi partecipare a Gare Ufficiali oppure organizzare",
+                    "strWidth": 678.21875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "una Gara Privata tra amici.",
+                    "strWidth": 343.078125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per altre informazioni sulle Gare Ufficiali in corso",
+                    "strWidth": 636.359375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "o future, puoi consultare il sito Pokémon ufficiale.",
+                    "strWidth": 646.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 45,
+            "labelName": "SS_tips_062",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Organizzare una gara",
+                    "strWidth": 275.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 46,
+            "labelName": "SS_tips_063",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puoi organizzare delle Gare in Diretta autonomamente.",
+                    "strWidth": 717.09375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Decidi le regole con cui vuoi lottare e distribuiscile a",
+                    "strWidth": 685.5
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tutti i partecipanti tramite le funzioni di comunicazione!",
+                    "strWidth": 717.546875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per altre informazioni puoi consultare il sito",
+                    "strWidth": 563.296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pokémon ufficiale.",
+                    "strWidth": 239.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 47,
+            "labelName": "SS_tips_064",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Lotte Amichevoli",
+                    "strWidth": 259.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 48,
+            "labelName": "SS_tips_065",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Queste sono le regole delle Lotte Amichevoli:",
+                    "strWidth": 599.03125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "- La tua Squadra Lotta deve essere formata da",
+                    "strWidth": 601.53125
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sei Pokémon di specie diverse",
+                    "strWidth": 388.6875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "- ",
+                    "strWidth": 19.875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non puoi dare lo stesso strumento",
+                    "strWidth": 444.4375
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " a più Pokémon.",
+                    "strWidth": 209.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 49,
+            "labelName": "SS_tips_066",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Alle Lotte Amichevoli sono ammessi i Pokémon speciali.",
+                    "strWidth": 724.046875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Divertiti a lottare con i tuoi Pokémon preferiti!",
+                    "strWidth": 601.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 50,
+            "labelName": "SS_tips_067",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Lotte Competitive",
+                    "strWidth": 275.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 51,
+            "labelName": "SS_tips_068",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Queste sono le regole delle Lotte Competitive:",
+                    "strWidth": 615.15625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "- La tua Squadra Lotta deve essere formata da",
+                    "strWidth": 601.53125
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sei Pokémon di specie diverse",
+                    "strWidth": 388.6875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "- ",
+                    "strWidth": 19.875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non puoi dare lo stesso strumento",
+                    "strWidth": 444.4375
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " a più Pokémon.",
+                    "strWidth": 209.328125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "- ",
+                    "strWidth": 19.875
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Non sono ammessi i Pokémon speciali",
+                    "strWidth": 490.734375
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "<color=#FF5000FF>",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 2,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "</color>",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 52,
+            "labelName": "SS_tips_069",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nelle Lotte Competitive ti viene assegnato un punteggio",
+                    "strWidth": 734.859375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che può aumentare o diminuire in base al risultato delle",
+                    "strWidth": 722.171875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lotte.",
+                    "strWidth": 68.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Superare una certa soglia di punti ti farà salire di grado;",
+                    "strWidth": 725.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "perdere un certo numero di punti ti farà scendere.",
+                    "strWidth": 648.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 53,
+            "labelName": "SS_tips_070",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I gradi sono divisi in classi. Anche se riporti delle",
+                    "strWidth": 630.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sconfitte nelle Lotte Competitive, la tua classe",
+                    "strWidth": 602.5
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "non scenderà.",
+                    "strWidth": 180.109375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per esempio, se hai raggiunto la Classe Ultra Ball,",
+                    "strWidth": 644.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "non potrai scendere alla Classe Mega Ball.",
+                    "strWidth": 551.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 54,
+            "labelName": "SS_tips_071",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per \"stagione\" si intende il periodo durante il quale",
+                    "strWidth": 663.34375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "si disputano le Lotte Competitive.",
+                    "strWidth": 439.671875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quando una stagione finisce, ha inizio la successiva",
+                    "strWidth": 666.15625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e il grado di tutti i partecipanti diminuisce. In questo",
+                    "strWidth": 681.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "caso anche la classe potrebbe diminuire.",
+                    "strWidth": 524.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 55,
+            "labelName": "SS_tips_072",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gli Allenatori che hanno già raggiunto il grado più alto",
+                    "strWidth": 712.53125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "nelle Lotte Competitive non saliranno più di grado ma",
+                    "strWidth": 702.046875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "si sfideranno fra loro per scalare la classifica.",
+                    "strWidth": 579.328125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La posizione in classifica varia in base ai risultati delle",
+                    "strWidth": 696.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lotte.",
+                    "strWidth": 68.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 56,
+            "labelName": "SS_tips_073",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Gare Online",
+                    "strWidth": 199.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 57,
+            "labelName": "SS_tips_074",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esistono due tipi di Gare Online:",
+                    "strWidth": 427.28125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gare Ufficiali e Gare Private.",
+                    "strWidth": 376.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 58,
+            "labelName": "SS_tips_075",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Nelle Gare Ufficiali, che possono avere varie regole, i",
+                    "strWidth": 697.875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "partecipanti puntano alla migliore posizione in classifica.",
+                    "strWidth": 733.1875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le informazioni sulle gare in programma e i Pokémon",
+                    "strWidth": 687.1875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ammessi vengono comunicati sul sito Pokémon ufficiale.",
+                    "strWidth": 722.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 59,
+            "labelName": "SS_tips_076",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Gare Private sono gare non ufficiali organizzate",
+                    "strWidth": 655.484375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dai giocatori stessi per poter lottare con altri Allenatori.",
+                    "strWidth": 723.296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puoi metterti alla prova in tutte le Gare Private",
+                    "strWidth": 609.46875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che desideri!",
+                    "strWidth": 164.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 60,
+            "labelName": "SS_tips_077",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cerca una Gara Ufficiale o una Gara Privata e iscriviti",
+                    "strWidth": 693.40625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per partecipare quando inizierà.",
+                    "strWidth": 415.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ti consigliamo di pensare alle regole che vorresti seguire",
+                    "strWidth": 736.015625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "e ai Pokémon con cui vorresti partecipare per trovare",
+                    "strWidth": 690.125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "la gara adatta a te.",
+                    "strWidth": 246.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 61,
+            "labelName": "SS_tips_078",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "I Box Pokémon",
+                    "strWidth": 194.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 62,
+            "labelName": "SS_tips_079",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Grazie ai Box Pokémon puoi spostare liberamente",
+                    "strWidth": 648.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "i Pokémon in squadra e quelli che hai affidato ai PC",
+                    "strWidth": 672.703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dei Centri Pokémon.",
+                    "strWidth": 264.890625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Per usarli, visualizza la lista dei Pokémon dal menu",
+                    "strWidth": 654.4375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "principale e premi il pulsante R.",
+                    "strWidth": 410.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 63,
+            "labelName": "SS_tips_080",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Partecipare alle Lotte Competitive",
+                    "strWidth": 446.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 64,
+            "labelName": "SS_tips_082",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La pesca",
+                    "strWidth": 112.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 65,
+            "labelName": "SS_tips_083",
+            "styleInfo": {
+                "styleIndex": 66,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quando vedi l’ombra di un Pokémon sulla superficie",
+                    "strWidth": 678.15625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dell’acqua, voltati verso di essa e premi il pulsante A",
+                    "strWidth": 685.203125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per iniziare a pescare!",
+                    "strWidth": 283.421875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quando la canna da pesca si muove, premi di nuovo",
+                    "strWidth": 679.765625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "il pulsante A per tirare su il Pokémon!",
+                    "strWidth": 485.765625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pesca in tutti i luoghi che trovi, non te ne pentirai!",
+                    "strWidth": 648.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 66,
+            "labelName": "SS_tips_085",
+            "styleInfo": {
+                "styleIndex": 12,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Le Squadre a nolo",
+                    "strWidth": 236.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 67,
+            "labelName": "SS_tips_086",
+            "styleInfo": {
+                "styleIndex": 67,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 924,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Questa funzione ti permette di prendere in prestito",
+                    "strWidth": 663.703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "delle Squadre Lotta rese pubbliche da altri Allenatori",
+                    "strWidth": 690.8125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tramite Internet, o di mettere a disposizione di altri",
+                    "strWidth": 663.0625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "giocatori le squadre create da te.",
+                    "strWidth": 431.75
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "A ogni Squadra Lotta resa pubblica viene associato",
+                    "strWidth": 663.875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "un ID che gli altri giocatori alla ricerca di una Squadra",
+                    "strWidth": 699.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a nolo dovranno usare per prenderla in prestito.",
+                    "strWidth": 621.125
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,3424 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_dp_stickers_info",
+    "hash": -1556945896,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "DP_STICKERS_INFO_000",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "_NULL_",
+                    "strWidth": 98.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "DP_STICKERS_INFO_001",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei piccoli cuori rosa che salgono in aria.",
+                    "strWidth": 689.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "DP_STICKERS_INFO_002",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei grandi cuori rosa che salgono in aria.",
+                    "strWidth": 685.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "DP_STICKERS_INFO_003",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei piccoli cuori scuri che salgono in aria.",
+                    "strWidth": 693.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "DP_STICKERS_INFO_004",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei grandi cuori scuri che salgono in aria.",
+                    "strWidth": 690.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "DP_STICKERS_INFO_005",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un turbinio di cuori rosa.",
+                    "strWidth": 386.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "DP_STICKERS_INFO_006",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un turbinio di cuori scuri.",
+                    "strWidth": 391.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "DP_STICKERS_INFO_007",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un’esplosione di piccole stelle gialle.",
+                    "strWidth": 548.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "DP_STICKERS_INFO_008",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un’esplosione di grandi stelle gialle.",
+                    "strWidth": 536.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "DP_STICKERS_INFO_009",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un’esplosione di piccole stelle blu.",
+                    "strWidth": 518.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "DP_STICKERS_INFO_010",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un’esplosione di grandi stelle blu.",
+                    "strWidth": 506.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "DP_STICKERS_INFO_011",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle piccole stelle cangianti che cadono",
+                    "strWidth": 689.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lasciando una scia.",
+                    "strWidth": 241.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "DP_STICKERS_INFO_012",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle grandi stelle cangianti che cadono",
+                    "strWidth": 677.578125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lasciando una scia.",
+                    "strWidth": 241.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "DP_STICKERS_INFO_013",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle linee gialle che si espandono",
+                    "strWidth": 608.765625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "roteando.",
+                    "strWidth": 126.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "DP_STICKERS_INFO_014",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle linee blu che si espandono roteando.",
+                    "strWidth": 713.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "DP_STICKERS_INFO_015",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle linee rosse che si espandono",
+                    "strWidth": 603.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "roteando.",
+                    "strWidth": 126.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "DP_STICKERS_INFO_016",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle linee bianche che si espandono",
+                    "strWidth": 639.375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "roteando.",
+                    "strWidth": 126.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "DP_STICKERS_INFO_017",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Produce un fumo bianco che sale verso l’alto.",
+                    "strWidth": 589.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "DP_STICKERS_INFO_018",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Produce un fumo nero che sale verso l’alto.",
+                    "strWidth": 560.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "DP_STICKERS_INFO_019",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Produce un fumo bianco che si espande sul posto.",
+                    "strWidth": 647.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "DP_STICKERS_INFO_020",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Produce un fumo nero che si espande sul posto.",
+                    "strWidth": 619.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "DP_STICKERS_INFO_021",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emette delle scariche di elettricità che si muovono",
+                    "strWidth": 652.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "orizzontalmente.",
+                    "strWidth": 214.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 22,
+            "labelName": "DP_STICKERS_INFO_022",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emette delle scariche di elettricità che si muovono",
+                    "strWidth": 652.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "verso l’alto.",
+                    "strWidth": 151.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 23,
+            "labelName": "DP_STICKERS_INFO_023",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emette delle scariche di elettricità che si muovono",
+                    "strWidth": 652.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a spirale.",
+                    "strWidth": 116.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 24,
+            "labelName": "DP_STICKERS_INFO_024",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Emette delle scariche di elettricità che si accumulano",
+                    "strWidth": 686.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al centro.",
+                    "strWidth": 122.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 25,
+            "labelName": "DP_STICKERS_INFO_025",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un po’ di bolle blu.",
+                    "strWidth": 408.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "DP_STICKERS_INFO_026",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare tante bolle blu.",
+                    "strWidth": 358.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "DP_STICKERS_INFO_027",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un po’ di bolle rosa.",
+                    "strWidth": 421.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "DP_STICKERS_INFO_028",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare tante bolle rosa.",
+                    "strWidth": 371.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 29,
+            "labelName": "DP_STICKERS_INFO_029",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sprigiona delle fiamme rosse che bruciano verso l’alto.",
+                    "strWidth": 707.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 30,
+            "labelName": "DP_STICKERS_INFO_030",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sprigiona delle fiamme rosse che si espandono",
+                    "strWidth": 605.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a raggiera.",
+                    "strWidth": 137.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 31,
+            "labelName": "DP_STICKERS_INFO_031",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sprigiona delle fiamme blu che bruciano verso l’alto.",
+                    "strWidth": 682.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 32,
+            "labelName": "DP_STICKERS_INFO_032",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sprigiona delle fiamme blu che si espandono a raggiera.",
+                    "strWidth": 727.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 33,
+            "labelName": "DP_STICKERS_INFO_033",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei coriandoli rossi che cadono a terra",
+                    "strWidth": 656.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "volteggiando.",
+                    "strWidth": 178.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 34,
+            "labelName": "DP_STICKERS_INFO_034",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei coriandoli blu che cadono a terra",
+                    "strWidth": 640.109375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "volteggiando.",
+                    "strWidth": 178.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 35,
+            "labelName": "DP_STICKERS_INFO_035",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei coriandoli gialli che cadono a terra",
+                    "strWidth": 661.765625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "volteggiando.",
+                    "strWidth": 178.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 36,
+            "labelName": "DP_STICKERS_INFO_036",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei coriandoli bianchi che cadono a terra",
+                    "strWidth": 692.375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "volteggiando.",
+                    "strWidth": 178.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 37,
+            "labelName": "DP_STICKERS_INFO_037",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei petali rosa che cadono a terra",
+                    "strWidth": 598.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "volteggiando.",
+                    "strWidth": 178.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 38,
+            "labelName": "DP_STICKERS_INFO_038",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un turbinio di petali rosa.",
+                    "strWidth": 396.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 39,
+            "labelName": "DP_STICKERS_INFO_039",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei petali viola che cadono a terra",
+                    "strWidth": 606.296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "volteggiando.",
+                    "strWidth": 178.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 40,
+            "labelName": "DP_STICKERS_INFO_040",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un turbinio di petali viola.",
+                    "strWidth": 404.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 41,
+            "labelName": "DP_STICKERS_INFO_041",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei petali gialli che cadono a terra",
+                    "strWidth": 606.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "volteggiando.",
+                    "strWidth": 178.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 42,
+            "labelName": "DP_STICKERS_INFO_042",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un turbinio di petali gialli.",
+                    "strWidth": 405.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 43,
+            "labelName": "DP_STICKERS_INFO_043",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle chiavi di violino dorate che ruotano",
+                    "strWidth": 693.859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "su se stesse.",
+                    "strWidth": 156.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 44,
+            "labelName": "DP_STICKERS_INFO_044",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle minime di colore verde che ruotano",
+                    "strWidth": 694.1875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "su se stesse.",
+                    "strWidth": 156.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 45,
+            "labelName": "DP_STICKERS_INFO_045",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle semiminime di colore rosso che",
+                    "strWidth": 636.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ruotano su se stesse.",
+                    "strWidth": 265.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 46,
+            "labelName": "DP_STICKERS_INFO_046",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle crome di colore blu che ruotano",
+                    "strWidth": 649.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "su se stesse.",
+                    "strWidth": 156.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 47,
+            "labelName": "DP_STICKERS_INFO_047",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle minime colorate che ruotano",
+                    "strWidth": 604.34375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "su se stesse.",
+                    "strWidth": 156.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 48,
+            "labelName": "DP_STICKERS_INFO_048",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle semiminime colorate che ruotano",
+                    "strWidth": 662.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "su se stesse.",
+                    "strWidth": 156.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 49,
+            "labelName": "DP_STICKERS_INFO_049",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle crome colorate che ruotano",
+                    "strWidth": 591.59375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "su se stesse.",
+                    "strWidth": 156.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 50,
+            "labelName": "DP_STICKERS_INFO_081",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una nube tossica che si spande tutt’intorno.",
+                    "strWidth": 722.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 51,
+            "labelName": "DP_STICKERS_INFO_082",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una nube inquietante che si spande",
+                    "strWidth": 617.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tutt’intorno.",
+                    "strWidth": 155.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 52,
+            "labelName": "DP_STICKERS_INFO_083",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Avvolge la zona circostante con un fumo che sembra",
+                    "strWidth": 680.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "celare qualcosa.",
+                    "strWidth": 209.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 53,
+            "labelName": "DP_STICKERS_INFO_084",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare tutt’intorno delle graziose spirali rosa.",
+                    "strWidth": 651.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 54,
+            "labelName": "DP_STICKERS_INFO_085",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei cerchi colorati che fluttuano attorno",
+                    "strWidth": 676.546875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al Pokémon.",
+                    "strWidth": 159.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 55,
+            "labelName": "DP_STICKERS_INFO_086",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle scintille rosa che girano attorno",
+                    "strWidth": 641.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al Pokémon.",
+                    "strWidth": 159.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 56,
+            "labelName": "DP_STICKERS_INFO_087",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un fresco vortice d’acqua che avvolge",
+                    "strWidth": 650.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "la zona circostante.",
+                    "strWidth": 250.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 57,
+            "labelName": "DP_STICKERS_INFO_088",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un’incantevole lama di ghiaccio che brilla",
+                    "strWidth": 696.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "intensamente.",
+                    "strWidth": 179.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 58,
+            "labelName": "DP_STICKERS_INFO_089",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una moltitudine di cristalli di neve che",
+                    "strWidth": 653.671875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "cadono fluttuando.",
+                    "strWidth": 247.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 59,
+            "labelName": "DP_STICKERS_INFO_090",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle fiamme scarlatte che divampano",
+                    "strWidth": 650.5625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per un istante.",
+                    "strWidth": 185.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 60,
+            "labelName": "DP_STICKERS_INFO_091",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle faville che piovono dal cielo",
+                    "strWidth": 600.421875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "fluttuando leggere.",
+                    "strWidth": 248.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 61,
+            "labelName": "DP_STICKERS_INFO_092",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una fiammata che divampa espandendosi",
+                    "strWidth": 692.609375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tutt’intorno.",
+                    "strWidth": 155.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 62,
+            "labelName": "DP_STICKERS_INFO_093",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle piume che si diffondono volteggiando",
+                    "strWidth": 726.234375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "in aria.",
+                    "strWidth": 87.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 63,
+            "labelName": "DP_STICKERS_INFO_094",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa soffiare un vento limpido accanto al Pokémon.",
+                    "strWidth": 642.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 64,
+            "labelName": "DP_STICKERS_INFO_095",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Crea un turbinio di scaglie lucenti.",
+                    "strWidth": 443.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 65,
+            "labelName": "DP_STICKERS_INFO_096",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un misterioso campo magnetico che tiene",
+                    "strWidth": 696.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sospesi dei frammenti di roccia.",
+                    "strWidth": 407.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 66,
+            "labelName": "DP_STICKERS_INFO_097",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un meteorite che sfreccia velocissimo",
+                    "strWidth": 640.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "accanto al Pokémon.",
+                    "strWidth": 269.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 67,
+            "labelName": "DP_STICKERS_INFO_098",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei piccoli cristalli di roccia che girano",
+                    "strWidth": 658.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "attorno al Pokémon.",
+                    "strWidth": 262.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 68,
+            "labelName": "DP_STICKERS_INFO_099",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei quadrifogli che fluttuano nell’aria.",
+                    "strWidth": 650.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 69,
+            "labelName": "DP_STICKERS_INFO_100",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare freschissime foglioline che cadono",
+                    "strWidth": 603.59375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a terra volteggiando.",
+                    "strWidth": 271.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 70,
+            "labelName": "DP_STICKERS_INFO_101",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare tenere foglie che volteggiano al vento",
+                    "strWidth": 655.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "avvolgendo il Pokémon.",
+                    "strWidth": 310.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 71,
+            "labelName": "DP_STICKERS_INFO_102",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa balenare un lampo lacerante.",
+                    "strWidth": 417.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 72,
+            "labelName": "DP_STICKERS_INFO_103",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa balenare un lampo lacerante che si propaga",
+                    "strWidth": 608.578125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "verso l’esterno.",
+                    "strWidth": 197.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 73,
+            "labelName": "DP_STICKERS_INFO_104",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle sfere di elettricità che fluttuano",
+                    "strWidth": 641.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "attorno al Pokémon.",
+                    "strWidth": 262.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 74,
+            "labelName": "DP_STICKERS_INFO_105",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Conferito a chi ha ottenuto tutti gli stilosissimi",
+                    "strWidth": 597.890625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "tipi di look.",
+                    "strWidth": 149.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 75,
+            "labelName": "DP_STICKERS_INFO_106",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una luce elegante che splende attorno",
+                    "strWidth": 657.359375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al Pokémon.",
+                    "strWidth": 159.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 76,
+            "labelName": "DP_STICKERS_INFO_107",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una luce elegante che sale verso il cielo.",
+                    "strWidth": 683.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 77,
+            "labelName": "DP_STICKERS_INFO_108",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una luce elegante che risplende",
+                    "strWidth": 571.015625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "per un istante.",
+                    "strWidth": 185.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 78,
+            "labelName": "DP_STICKERS_INFO_109",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un lampo di luce elegante.",
+                    "strWidth": 504.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 79,
+            "labelName": "DP_STICKERS_INFO_110",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un piccolo fuoco d’artificio rosa",
+                    "strWidth": 572.4375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che scoppia con un bellissimo gioco di luci.",
+                    "strWidth": 560.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 80,
+            "labelName": "DP_STICKERS_INFO_111",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un grande fuoco d’artificio verde",
+                    "strWidth": 586.875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che scoppia con un bellissimo gioco di luci.",
+                    "strWidth": 560.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 81,
+            "labelName": "DP_STICKERS_INFO_112",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un fuoco d’artificio colorato molto grande",
+                    "strWidth": 705.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che scoppia con un bellissimo gioco di luci.",
+                    "strWidth": 560.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 82,
+            "labelName": "DP_STICKERS_INFO_113",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle bellissime gocce di luce colorate",
+                    "strWidth": 655.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che si diffondono nell’aria.",
+                    "strWidth": 346.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 83,
+            "labelName": "DP_STICKERS_INFO_114",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un complesso poliedro che gira",
+                    "strWidth": 564.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "su se stesso.",
+                    "strWidth": 157.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 84,
+            "labelName": "DP_STICKERS_INFO_115",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una complessa sfera di energia che ruota",
+                    "strWidth": 687.921875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "su se stessa.",
+                    "strWidth": 155.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 85,
+            "labelName": "DP_STICKERS_INFO_116",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un complesso gioco di raggi di luce che",
+                    "strWidth": 672.125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "si allungano verso l’alto.",
+                    "strWidth": 314.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 86,
+            "labelName": "DP_STICKERS_INFO_117",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un complesso gioco di dischi che",
+                    "strWidth": 585.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "si distanziano gradualmente l’uno dall’altro.",
+                    "strWidth": 566.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 87,
+            "labelName": "DP_STICKERS_INFO_118",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei possenti frammenti di roccia",
+                    "strWidth": 573.75
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che vengono lanciati verso l’esterno.",
+                    "strWidth": 473.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 88,
+            "labelName": "DP_STICKERS_INFO_119",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un possente pilastro di luce che solleva",
+                    "strWidth": 667.4375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "delle rocce.",
+                    "strWidth": 152.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 89,
+            "labelName": "DP_STICKERS_INFO_120",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una possente tempesta di sabbia",
+                    "strWidth": 583.75
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "che avvolge il Pokémon.",
+                    "strWidth": 315.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 90,
+            "labelName": "DP_STICKERS_INFO_121",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare una possente nuvola di sabbia che si leva",
+                    "strWidth": 694.171875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "verso l’alto.",
+                    "strWidth": 151.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 91,
+            "labelName": "DP_STICKERS_INFO_122",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle graziose bolle di sapone che volano",
+                    "strWidth": 699.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "verso il cielo.",
+                    "strWidth": 171.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 92,
+            "labelName": "DP_STICKERS_INFO_123",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare delle graziose caramelle che vengono",
+                    "strWidth": 647.203125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lanciate verso l’esterno.",
+                    "strWidth": 307.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 93,
+            "labelName": "DP_STICKERS_INFO_124",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare dei graziosi lecca-lecca che si spargono",
+                    "strWidth": 671.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "verso l’esterno.",
+                    "strWidth": 197.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 94,
+            "labelName": "DP_STICKERS_INFO_125",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fa spuntare un grazioso arcobaleno che crea un cerchio",
+                    "strWidth": 720.984375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "attorno al Pokémon.",
+                    "strWidth": 262.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 95,
+            "labelName": "DP_STICKERS_INFO_126",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Conferito a chi ha trionfato nelle Super Gare-show.",
+                    "strWidth": 663.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 96,
+            "labelName": "DP_STICKERS_INFO_135",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Conferito agli Allenatori il cui valore è stato",
+                    "strWidth": 570.265625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "riconosciuto dalla Campionessa.",
+                    "strWidth": 415.8125
+                }
+            ]
+        }
+    ]
+}

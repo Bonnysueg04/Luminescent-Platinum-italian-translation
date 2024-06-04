@@ -1,0 +1,558 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "italian_ss_typename",
+    "hash": -458416506,
+    "langID": 4,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "TYPENAME_000",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Normale",
+                    "strWidth": 110.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "TYPENAME_001",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lotta",
+                    "strWidth": 67.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "TYPENAME_002",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Volante",
+                    "strWidth": 101.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "TYPENAME_003",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veleno",
+                    "strWidth": 92.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "TYPENAME_004",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Terra",
+                    "strWidth": 67.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "TYPENAME_005",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Roccia",
+                    "strWidth": 85.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "TYPENAME_006",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Coleottero",
+                    "strWidth": 141.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "TYPENAME_007",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Spettro",
+                    "strWidth": 95.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "TYPENAME_008",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Acciaio",
+                    "strWidth": 95.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "TYPENAME_010",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Fuoco",
+                    "strWidth": 80.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "TYPENAME_011",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Acqua",
+                    "strWidth": 82.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "TYPENAME_012",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Erba",
+                    "strWidth": 58.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "TYPENAME_013",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Elettro",
+                    "strWidth": 86.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "TYPENAME_014",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Psico",
+                    "strWidth": 66.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "TYPENAME_015",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ghiaccio",
+                    "strWidth": 114.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "TYPENAME_016",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Drago",
+                    "strWidth": 80.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "TYPENAME_017",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Buio",
+                    "strWidth": 57.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "TYPENAME_018",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Folletto",
+                    "strWidth": 102.09375
+                }
+            ]
+        }
+    ]
+}

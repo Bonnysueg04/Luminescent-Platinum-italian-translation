@@ -1,0 +1,2283 @@
+{
+    "m_Name": "italian",
+    "m_PreloadTable": [
+        {
+            "m_FileID": 0,
+            "m_PathID": -6231428122044423448
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -3378818036416929605
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8679089585361639884
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -1476452761425008977
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -2813455355172247426
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6937326001374857148
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7757673956525184981
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8820934671156844280
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2669292335389678244
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8508128308281283401
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8886532771764356569
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8330614358398978469
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 1210430862887117693
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6429474666607649070
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -219686116057304679
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 156904364163417776
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5891007041392063352
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4309021406023144972
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4588156481984102836
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3647373433161325170
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6115412518200007311
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 9203322462044916014
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2251401858537054570
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7964720603198440757
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -805381101008811516
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3905712702941446747
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3799913448882580062
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7713763873648692558
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 4793603028872612412
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6885387305375075027
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8679112893469066035
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -33000923469051402
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8048713104379360805
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 6129864913379351121
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5027587745551849144
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 9158053818370653330
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -5989138555495628632
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7878028302944829604
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -883199109834892411
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 7987458452308366763
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8504736641119615982
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6776377998565187507
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 6677509138723184276
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 1043372799254786704
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8870764950937572721
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2162829919276328439
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 1489283086929690082
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 6061819590150801852
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 4654538124242663323
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8300604338435529038
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -3570421256569968245
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -5171481937635854180
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -5398306448522333690
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8568861067082486077
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 6075751484124102748
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8106025229819079823
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4048951582003026777
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8660010077073311522
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 4069669808813909722
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8109642332933648055
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -5277338887232809801
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -2670762740344518383
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 6627602669979008792
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 1951658562955256763
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -988719495569597973
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4392988439663891818
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -1165538748759635993
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3201318466490070978
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5963141113921876708
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -3858851721482166179
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2511239039264155465
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -1610431695098795763
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2999820701216751445
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 7726225428490334412
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 6313102795211049492
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 1075425761557542117
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4706786809291516127
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -1031525065525813502
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -9086225729315256305
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8470343684315305221
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -9126628852135522236
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4628443287461535536
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5094088870512015254
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -1154633954946432501
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5864514358291069514
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -812412694614827911
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -2080574288162552488
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4021260023974713121
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -7856465591099634354
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -1845454761135725842
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2224585158401074180
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 5756511208320551199
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -2409595067124782770
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 1269940503700700645
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 1347774599813204477
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4847988368730717448
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8421758796098330177
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8212091759344964571
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -2177720484948884711
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2695226455367030257
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8743202700948906986
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 869349023712405042
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -5818057518424252694
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6510994500825355532
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 613674881213648245
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8055562927146601977
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8394480873424006188
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8355845535130778411
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -1547391972532527981
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8311863058619650336
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 4613815220998141565
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -4728552773452658840
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8989336548288501395
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -5228433662118653795
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8358145166072561847
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 1824004721732432265
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 8029563860145193704
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 2447587983256066058
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -8108106430193799270
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 3652094840918934080
+        }
+    ],
+    "m_Container": [
+        [
+            "assets/format_msbt/it/italian/italian_dlp_adventure_note.asset",
+            {
+                "preloadIndex": 116,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 4069669808813909722
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_contestwaza_info.asset",
+            {
+                "preloadIndex": 38,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 3647373433161325170
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_gmstation.asset",
+            {
+                "preloadIndex": 6,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -1476452761425008977
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_halloffame_demo.asset",
+            {
+                "preloadIndex": 122,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -2670762740344518383
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_net_union_room.asset",
+            {
+                "preloadIndex": 174,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4021260023974713121
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_park_info.asset",
+            {
+                "preloadIndex": 204,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -5818057518424252694
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_park_name.asset",
+            {
+                "preloadIndex": 48,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -805381101008811516
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_park_name_plural.asset",
+            {
+                "preloadIndex": 42,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 9203322462044916014
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_poffin_name.asset",
+            {
+                "preloadIndex": 148,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 6313102795211049492
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_poffin_name_acc.asset",
+            {
+                "preloadIndex": 142,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -1610431695098795763
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_poffin_name_plural.asset",
+            {
+                "preloadIndex": 46,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -7964720603198440757
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_rotom_message.asset",
+            {
+                "preloadIndex": 202,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 869349023712405042
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_speakers_name.asset",
+            {
+                "preloadIndex": 124,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 6627602669979008792
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_staff_list.asset",
+            {
+                "preloadIndex": 184,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -2409595067124782770
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_stickers.asset",
+            {
+                "preloadIndex": 52,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 3799913448882580062
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_tsurearuki.asset",
+            {
+                "preloadIndex": 74,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -7878028302944829604
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dlp_underground.asset",
+            {
+                "preloadIndex": 158,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8470343684315305221
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_berries_info.asset",
+            {
+                "preloadIndex": 44,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 2251401858537054570
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_characters.asset",
+            {
+                "preloadIndex": 54,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -7713763873648692558
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_contest.asset",
+            {
+                "preloadIndex": 94,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 6061819590150801852
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_fld_areaname.asset",
+            {
+                "preloadIndex": 222,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4728552773452658840
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_fld_areaname_display.asset",
+            {
+                "preloadIndex": 90,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 2162829919276328439
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_fld_areaname_indirect.asset",
+            {
+                "preloadIndex": 10,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -6937326001374857148
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_fld_areaname_townmap.asset",
+            {
+                "preloadIndex": 126,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 1951658562955256763
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_net_communication.asset",
+            {
+                "preloadIndex": 164,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 5094088870512015254
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_options.asset",
+            {
+                "preloadIndex": 224,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8989336548288501395
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_poffin_main.asset",
+            {
+                "preloadIndex": 156,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -9086225729315256305
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_poketch.asset",
+            {
+                "preloadIndex": 14,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8820934671156844280
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_scenario1.asset",
+            {
+                "preloadIndex": 180,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 2224585158401074180
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_scenario2.asset",
+            {
+                "preloadIndex": 106,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8568861067082486077
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_scenario3.asset",
+            {
+                "preloadIndex": 66,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 6129864913379351121
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_stickers_info.asset",
+            {
+                "preloadIndex": 84,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 6677509138723184276
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_stickers_name.asset",
+            {
+                "preloadIndex": 212,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8394480873424006188
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_stickers_name_plural.asset",
+            {
+                "preloadIndex": 22,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8330614358398978469
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_townmap.asset",
+            {
+                "preloadIndex": 172,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -2080574288162552488
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_trainer_msg.asset",
+            {
+                "preloadIndex": 78,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 7987458452308366763
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_trainer_msg_sub.asset",
+            {
+                "preloadIndex": 138,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -3858851721482166179
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_trainers_name.asset",
+            {
+                "preloadIndex": 16,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 2669292335389678244
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_trainers_type.asset",
+            {
+                "preloadIndex": 166,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -1154633954946432501
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_tvshow.asset",
+            {
+                "preloadIndex": 50,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 3905712702941446747
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_underground_info.asset",
+            {
+                "preloadIndex": 218,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8311863058619650336
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_underground_name.asset",
+            {
+                "preloadIndex": 62,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -33000923469051402
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_underground_name_acc.asset",
+            {
+                "preloadIndex": 208,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 613674881213648245
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_underground_name_acc_classified.asset",
+            {
+                "preloadIndex": 214,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8355845535130778411
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_underground_name_classified.asset",
+            {
+                "preloadIndex": 226,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -5228433662118653795
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_underground_name_plural.asset",
+            {
+                "preloadIndex": 102,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -5171481937635854180
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_dp_underground_name_plural_classified.asset",
+            {
+                "preloadIndex": 96,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 4654538124242663323
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_bag.asset",
+            {
+                "preloadIndex": 36,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4588156481984102836
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_bag_pocket.asset",
+            {
+                "preloadIndex": 30,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 156904364163417776
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_box.asset",
+            {
+                "preloadIndex": 4,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8679089585361639884
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_boxname.asset",
+            {
+                "preloadIndex": 82,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -6776377998565187507
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_app.asset",
+            {
+                "preloadIndex": 186,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 1269940503700700645
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_attack.asset",
+            {
+                "preloadIndex": 60,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8679112893469066035
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_bgm_select.asset",
+            {
+                "preloadIndex": 24,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 1210430862887117693
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_pokelist.asset",
+            {
+                "preloadIndex": 194,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8212091759344964571
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_pokeselect.asset",
+            {
+                "preloadIndex": 40,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -6115412518200007311
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_set.asset",
+            {
+                "preloadIndex": 72,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -5989138555495628632
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_state.asset",
+            {
+                "preloadIndex": 234,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 2447587983256066058
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_std.asset",
+            {
+                "preloadIndex": 198,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 2695226455367030257
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_talk.asset",
+            {
+                "preloadIndex": 100,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -3570421256569968245
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_tower_main.asset",
+            {
+                "preloadIndex": 32,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 5891007041392063352
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_tower_menu_ui_text.asset",
+            {
+                "preloadIndex": 0,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -6231428122044423448
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_tower_regulation.asset",
+            {
+                "preloadIndex": 98,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8300604338435529038
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_btl_tower_trainer.asset",
+            {
+                "preloadIndex": 206,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -6510994500825355532
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_common_text.asset",
+            {
+                "preloadIndex": 230,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 1824004721732432265
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_fld_dressup.asset",
+            {
+                "preloadIndex": 56,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 4793603028872612412
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_fld_dressup_item_name.asset",
+            {
+                "preloadIndex": 160,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -9126628852135522236
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_fld_place_name_out.asset",
+            {
+                "preloadIndex": 176,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -7856465591099634354
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_fld_place_name_per.asset",
+            {
+                "preloadIndex": 132,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -1165538748759635993
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_fld_place_name_spe.asset",
+            {
+                "preloadIndex": 118,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8109642332933648055
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_fld_shop.asset",
+            {
+                "preloadIndex": 170,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -812412694614827911
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_fld_tokkun.asset",
+            {
+                "preloadIndex": 216,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -1547391972532527981
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_gameover.asset",
+            {
+                "preloadIndex": 144,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 2999820701216751445
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_illegalname.asset",
+            {
+                "preloadIndex": 68,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 5027587745551849144
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_initial.asset",
+            {
+                "preloadIndex": 18,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8508128308281283401
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_iteminfo.asset",
+            {
+                "preloadIndex": 114,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8660010077073311522
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_itemname.asset",
+            {
+                "preloadIndex": 80,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8504736641119615982
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_itemname_acc.asset",
+            {
+                "preloadIndex": 190,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4847988368730717448
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_itemname_acc_classified.asset",
+            {
+                "preloadIndex": 162,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4628443287461535536
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_itemname_classified.asset",
+            {
+                "preloadIndex": 20,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8886532771764356569
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_itemname_plural.asset",
+            {
+                "preloadIndex": 134,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 3201318466490070978
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_itemname_plural_classified.asset",
+            {
+                "preloadIndex": 70,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 9158053818370653330
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_language_select.asset",
+            {
+                "preloadIndex": 178,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -1845454761135725842
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_level_up.asset",
+            {
+                "preloadIndex": 108,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 6075751484124102748
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_message_error.asset",
+            {
+                "preloadIndex": 2,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -3378818036416929605
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_net_blacklist.asset",
+            {
+                "preloadIndex": 26,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -6429474666607649070
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_net_field_network.asset",
+            {
+                "preloadIndex": 210,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8055562927146601977
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_net_live_comm.asset",
+            {
+                "preloadIndex": 236,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8108106430193799270
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_net_message_error.asset",
+            {
+                "preloadIndex": 140,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 2511239039264155465
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_net_mystery.asset",
+            {
+                "preloadIndex": 152,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4706786809291516127
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_net_mystery_card.asset",
+            {
+                "preloadIndex": 128,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -988719495569597973
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_net_net_btl.asset",
+            {
+                "preloadIndex": 76,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -883199109834892411
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_net_trade_demo.asset",
+            {
+                "preloadIndex": 104,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -5398306448522333690
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_nuts_name.asset",
+            {
+                "preloadIndex": 120,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -5277338887232809801
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_option.asset",
+            {
+                "preloadIndex": 8,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -2813455355172247426
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_player_select.asset",
+            {
+                "preloadIndex": 192,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8421758796098330177
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_pokelist.asset",
+            {
+                "preloadIndex": 150,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 1075425761557542117
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_report.asset",
+            {
+                "preloadIndex": 146,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 7726225428490334412
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_ribbon.asset",
+            {
+                "preloadIndex": 168,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 5864514358291069514
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_seikaku.asset",
+            {
+                "preloadIndex": 200,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8743202700948906986
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_shinka_demo.asset",
+            {
+                "preloadIndex": 64,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8048713104379360805
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_staff_list.asset",
+            {
+                "preloadIndex": 196,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -2177720484948884711
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_status.asset",
+            {
+                "preloadIndex": 12,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -7757673956525184981
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_strinput.asset",
+            {
+                "preloadIndex": 228,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8358145166072561847
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_syoujou.asset",
+            {
+                "preloadIndex": 58,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -6885387305375075027
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_tamago_demo.asset",
+            {
+                "preloadIndex": 86,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 1043372799254786704
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_tips.asset",
+            {
+                "preloadIndex": 130,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4392988439663891818
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_tokusei.asset",
+            {
+                "preloadIndex": 92,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 1489283086929690082
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_tokuseiinfo.asset",
+            {
+                "preloadIndex": 110,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8106025229819079823
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_trainer_license.asset",
+            {
+                "preloadIndex": 182,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 5756511208320551199
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_trainer_license_common.asset",
+            {
+                "preloadIndex": 28,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -219686116057304679
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_trainermemo.asset",
+            {
+                "preloadIndex": 220,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 4613815220998141565
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_typename.asset",
+            {
+                "preloadIndex": 188,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 1347774599813204477
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_waza_remember.asset",
+            {
+                "preloadIndex": 136,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 5963141113921876708
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_wazainfo.asset",
+            {
+                "preloadIndex": 112,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4048951582003026777
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_wazaname.asset",
+            {
+                "preloadIndex": 154,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -1031525065525813502
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_xmenu.asset",
+            {
+                "preloadIndex": 34,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -4309021406023144972
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_xmenu_net.asset",
+            {
+                "preloadIndex": 232,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": 8029563860145193704
+                }
+            }
+        ],
+        [
+            "assets/format_msbt/it/italian/italian_ss_xmenu_timeline.asset",
+            {
+                "preloadIndex": 88,
+                "preloadSize": 2,
+                "asset": {
+                    "m_FileID": 0,
+                    "m_PathID": -8870764950937572721
+                }
+            }
+        ]
+    ],
+    "m_MainAsset": {
+        "preloadIndex": 0,
+        "preloadSize": 0,
+        "asset": {
+            "m_FileID": 0,
+            "m_PathID": 0
+        }
+    },
+    "m_RuntimeCompatibility": 1,
+    "m_AssetBundleName": "italian",
+    "m_Dependencies": [],
+    "m_IsStreamedSceneAssetBundle": false,
+    "m_ExplicitDataLayout": 0,
+    "m_PathFlags": 7,
+    "m_SceneHashes": []
+}
